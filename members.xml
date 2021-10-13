@@ -2,7 +2,8 @@
 
 <group>
     <member>
-        <name>Jakub Vondráček</name>
+        <firstname>Jakub</firstname>
+        <surname>Vondráček</surname>
         <username>vondrj38</username>
         <email>vondrj38@fit.cvut.cz</email>
         <areas>
@@ -13,7 +14,8 @@
         </areas>
     </member>
     <member>
-        <name>Dan Šimánek</name>
+        <firstname>Dan</firstname>
+        <surname>Šimánek</surname>
         <username>simandan</username>
         <email>simandan@cvut.cz</email>
         <areas>
