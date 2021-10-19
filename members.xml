@@ -25,4 +25,16 @@
             </area>
         </areas>
     </member>
+	<member>
+        <firstname>Jiří</firstname>
+        <surname>Heller</surname>
+        <username>hellejir</username>
+        <email>hellejir@fit.cvut.cz</email>
+        <areas>
+            <area>
+                <name>Italy</name>
+                <name>Holy See (Vatican City)</name>
+            </area>
+        </areas>
+    </member>
 </group>
