@@ -1,0 +1,46 @@
+PROJEKT - VÝBĚR ZADÁNÍ
+
+- Pokud chcete dělat projekt samostatně:
+
+  - Navrhněte jednoduchou XML strukturu pro zaznamenání vašeho jména,
+    emailu a názvů oblastí co jste si vybrali pro zpracování do projektu.
+
+  - Po navržení XML struktury si vyberte 4 unikátní oblasti (z
+    "https://www.cia.gov/the-world-factbook/") a zaznamenejte je do
+    "well-formed" XML dokumentu, který odešlete na email vyučujícího.
+
+- Pokud chcete dělat projekt ve skupině:
+
+  - Vytvořte skupiny po 3 až 6 lidech a v každé se dohodněte kdo bude
+    koordinátor skupiny.
+
+  - Každá skupina navrhne XML strukturu pro zaznamenání informací o členech
+    skupiny (jméno + email) a o tom jaké oblasti jste si vybrali pro
+    zpracování do projektu.
+
+  - Po navržení XML struktury si za každého člena skupiny vyberte a
+    zaznamenejte do XML dokumentu 2 oblasti pro zpracování v projektu (z
+    "https://www.cia.gov/the-world-factbook/"). Všechny oblasti by měly být
+    unikátní vrámci skupiny.
+
+  - Výsledný XML dokument ve skupině zkontrolujte aby byl "well-formed" a
+    koordinátor skupiny ho odešle na email vyučujícího.
+
+EXTRA INFO PRO ROK 2021:
+
+- Zpracování projektu ve skupině po 3 až 6 lidech v tomto semestru je možné
+  a snad již nebude tolik komplikováno nákazou COVID-19. I pokud by hrozilo
+  obnovení pandemických opatření neměl by být velký problém zvládnout
+  koordinaci ve skupině online. Každopádně doufám, že koncem semestru nám
+  situace umožní skupinovou prezentaci výsledných projektů.
+
+- Při výběru oblastí a stahování dat do projektu vyberte nejméně polovinu
+  oblastí tak aby byly typu stát ("Country"). Rozsah projektu nebude
+  dostatečný pokud namísto toho zpracujete například jen data o oceánech
+  ("Oceans") nebo budete zkoušet zda projde když zpracujete jen "One-page
+  Country Summaries" pro vybrané státy. Respektive zkoušet si takto
+  všelijak projekt ulehčit klidně můžete, ale je vysoká pravděpodobnost že
+  budu pak vyžadovat jeho doplnění nebo kompletní přepracování:). Projekt s
+  nedostatečným rozsahem totiž nebude možné hodnotit, protože by nebylo
+  zachováno konzistentní hodnocení oproti předchozím semestrům a nebylo by
+  to férové vůči studentům co zpracují projekt ve správném rozsahu.
