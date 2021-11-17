@@ -1,0 +1,46 @@
+PROJEKT - PREZENTACE
+
+- Pokud děláte projekt samostatně do repozitáře přidejte také krátký popis
+  projektu (adresářová struktura, potřebný software, seznam použitých
+  příkazů (nebo skript s čitelným zdrojovým kódem co tyto příkazy provede),
+  atd.).
+
+- Pokud děláte projekt ve skupině do repozitáře přidejte prezentaci
+  projektu (na zhruba 10 až 20 minut), která bude obsahovat alespoň
+  následující:
+
+  - 1) informace o navržené XML struktuře pro datové XML dokumenty a jejich
+       propojení do jednoho XML dokumentu (můžete popsat i postup převodu
+       dat do XML struktury)
+
+  - 2) informace o validaci pomocí DTD a RelaxNG schema
+
+  - 3) informace o generování (X)HTML výstupů
+
+  - 4) informace o generování PDF výstupů
+
+  - 5) informace o generování ePub výstupů (pokud jste se rozhodli
+       zpracovat tuto část)
+
+  - 6) informace o pokročilém formátování (X)HTML a PDF výstupů (pokud jste
+       se rozhodli zpracovat tuto část)
+
+- Při prezentování ve skupině by měl každý člen skupiny odprezentovat
+  alespoň jednu z částí (1-6) popsanou výše. Pokud má skupina menší nebo
+  větší počet členů než je počet částí prezentace projektu rozdělte si
+  prezentování částí rovnoměrně (tj. složitější části mohou prezentovat
+  např. 2 lidé nebo více jednodušších částí zvládne 1 člen skupiny).
+
+EXTRA INFO PRO ROK 2021:
+
+- Pokud by opatření související s nákazou COVID-19 znemožnila na konci
+  semestru běžné ústní ZK bude možné projekt obhájit a ZK zvládnout přes
+  Internet.
+
+- V tom případě doporučuji připravit si samostatnou krátkou prezentaci nebo
+  krátký popis co a jak jste v projektu zpracovali. Struktura prezentace
+  nebo popisu může vycházet z instrukcí pro prezentaci skupinového
+  projektu, ale bude stačit stručnější provedení. Toto pak využijete při
+  distanční ZK, kde se zejména první otázka bude zabývat obhajobou
+  projektu. Samozřejmě i prezentace skupinového projektu bude při distanční
+  ZK probíhat samostatně.
