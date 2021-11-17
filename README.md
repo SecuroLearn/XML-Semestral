@@ -1,4 +1,8 @@
 # XML-Semestral
-A repository for XML semestral project.
+> A repository for XML semestral project.
 
-2021, Jakub Vondracek, Daniel Simanek & Jiri Heller
+- Semester: B211
+- Authors:
+  - Jakub Vondráček
+  - Daniel Šimánek
+  - Jiří Heller  
