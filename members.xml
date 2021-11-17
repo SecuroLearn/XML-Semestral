@@ -1,46 +1,16 @@
 <?xml version="1.1" encoding="UTF-8"?>
 
 <group>
-    <member>
-        <firstname>Jakub</firstname>
-        <surname>Vondráček</surname>
-        <username>vondrj38</username>
-        <email>vondrj38@fit.cvut.cz</email>
-        <areas>
-            <area>
-                <name>Iceland</name>
-            </area>
-            <area>
-                <name>Greenland</name>
-            </area>
-        </areas>
+    <member firstname='Jakub' surname='Vondráček' username='vondrj38' email='vondrj38@fit.cvut.cz'>
+        <area name='Iceland' />
+        <area name='Greenland' />
     </member>
-    <member>
-        <firstname>Dan</firstname>
-        <surname>Šimánek</surname>
-        <username>simandan</username>
-        <email>simandan@cvut.cz</email>
-        <areas>
-            <area>
-                <name>Saint Vincent and the Grenadines</name>
-            </area>
-            <area>
-                <name>Saint Kitts and Nevis</name>
-            </area>
-        </areas>
+    <member firstname='Dan' surname='Šimánek' username='simandan' email='simandan@cvut.cz'>
+        <area name='Saint Vincent and the Grenadines' />
+        <area name='Saint Kitts and Nevis' />
     </member>
-	<member>
-        <firstname>Jiří</firstname>
-        <surname>Heller</surname>
-        <username>hellejir</username>
-        <email>hellejir@fit.cvut.cz</email>
-        <areas>
-            <area>
-                <name>Italy</name>
-            </area>
-            <area>
-                <name>Holy See (Vatican City)</name>
-            </area>
-        </areas>
+	<member firstname='Jiří' surname='Heller' username='hellejir' email='hellejir@fit.cvut.cz'>
+        <area name='Italy' />
+        <area name='Holy See (Vatican City)' />
     </member>
 </group>
