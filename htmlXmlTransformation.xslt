@@ -9,7 +9,7 @@
 <xsl:template match="main">
     <xsl:element name="area">
         <xsl:attribute name="name">
-            <xsl:value-of select="//h1[@class='hero-title']"/>
+            <xsl:value-of select="normalize-space(//h1[@class='hero-title'])"/>
         </xsl:attribute>
         <xsl:apply-templates select="//div[@class='free-form-content__content wysiwyg-wrapper']"/>
     </xsl:element>
@@ -19,7 +19,7 @@
 <xsl:template match="div[@class='free-form-content__content wysiwyg-wrapper']">
     <xsl:element name="section">
         <xsl:attribute name="title">
-            <xsl:value-of select="h2"/>
+            <xsl:value-of select="normalize-space(h2)"/>
         </xsl:attribute>
         <xsl:apply-templates select="div"/>
     </xsl:element>
@@ -31,21 +31,46 @@
         <xsl:attribute name="title">
             <xsl:value-of select="normalize-space(h3/a)"/>
         </xsl:attribute>
-            <xsl:apply-templates select="p"/>
+            <xsl:apply-templates select="p | a"/>
     </xsl:element>
 </xsl:template>
 
-<!-- Content (paragraphs without children) -->
-<xsl:template match="div[@class='free-form-content__content wysiwyg-wrapper']/div/p[not(*)]">
-    <xsl:element name="content">
-        <xsl:value-of select="."/>
+<!-- Content paragraphs -->
+<xsl:template match="div[@class='free-form-content__content wysiwyg-wrapper']/div/p">
+    <xsl:apply-templates select="strong | text() | p"/>
+</xsl:template>
+
+<!-- Basic text content -->
+<xsl:template match="div[@class='free-form-content__content wysiwyg-wrapper']/div/p/text()">
+    <xsl:if test="string-length(normalize-space(.))!=0">
+        <xsl:element name="content-basic">
+            <xsl:value-of select="normalize-space(.)"/>
+        </xsl:element>
+    </xsl:if>
+</xsl:template>
+
+<!-- Strong text content -->
+<xsl:template match="div[@class='free-form-content__content wysiwyg-wrapper']/div/p/strong">
+    <xsl:element name="content-strong">
+        <xsl:attribute name="type">strong</xsl:attribute>
+        <xsl:value-of select="normalize-space(.)"/>
     </xsl:element>
 </xsl:template>
 
-<!-- Complicated content (paragraphs with children) -->
-<xsl:template match="div[@class='free-form-content__content wysiwyg-wrapper']/div/p[strong]">
-    <xsl:element name="content">
-        <xsl:value-of select="."/>
+<!-- Nested paragraph -->
+<xsl:template match="div[@class='free-form-content__content wysiwyg-wrapper']/div/p/p">
+    <xsl:if test="string-length(.)!=0">
+        <xsl:element name="content-nested">
+            <xsl:value-of select="normalize-space(.)"/>
+        </xsl:element>
+    </xsl:if>
+</xsl:template>
+
+<!-- Comparison url link content -->
+<xsl:template match="div[@class='free-form-content__content wysiwyg-wrapper']/div/a">
+    <xsl:element name="content-comparison">
+        <xsl:attribute name="type">comparison</xsl:attribute>
+        <xsl:value-of select="normalize-space(.)"/>
     </xsl:element>
 </xsl:template>
 
