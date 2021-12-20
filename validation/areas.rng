@@ -1,4 +1,4 @@
-<!ENTITY simple-rng SYSTEM "area.rng" >
+<!ENTITY % simple-rng SYSTEM "area.rng" >
 
 <grammar xmlns="http://relaxng.org/ns/structure/1.0">
 	<start datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
@@ -14,4 +14,4 @@
     </define>
 </grammar>
 
-&area.rng;
+%area.rng;
