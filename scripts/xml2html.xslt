@@ -9,6 +9,12 @@
 <xsl:template match="areas">
     <xsl:result-document href="output/html/index.html">
         <xsl:element name="html">
+            <xsl:element name="head">
+                <xsl:element name="link">
+                    <xsl:attribute name="rel">stylesheet</xsl:attribute>
+                    <xsl:attribute name="href">./style-index.css</xsl:attribute>
+                </xsl:element>
+            </xsl:element>
             <xsl:element name="body">
                 <xsl:element name="h1">Areas</xsl:element>
                 <xsl:element name="ul">
@@ -39,7 +45,7 @@
             <xsl:element name="head">
                 <xsl:element name="link">
                     <xsl:attribute name="rel">stylesheet</xsl:attribute>
-                    <xsl:attribute name="href">style.css</xsl:attribute>
+                    <xsl:attribute name="href">./style-area.css</xsl:attribute>
                 </xsl:element>
             </xsl:element>
             <xsl:element name="body">

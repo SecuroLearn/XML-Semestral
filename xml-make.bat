@@ -9,7 +9,7 @@ set AREAS=Areas.xml
 set SHORT-AREAS-SCRIPT=expandAreas.xslt
 set HTML-TO-XML-SCRIPT=html2xml.xslt
 set XML-TO-HTML-SCRIPT=xml2html.xslt
-set XML-TO-PDF-SCRIPT=xml2pdf.xsl
+set XML-TO-PDF-SCRIPT=xml2pdf.xslt
 
 set SHORT-AREAS-PATH=areas-xml\%SHORT-AREAS%
 set AREAS-PATH=areas-xml\%AREAS%

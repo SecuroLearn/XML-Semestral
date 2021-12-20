@@ -18,7 +18,7 @@
 </xsl:template>
 
 <xsl:template match="areas">
-    <fo:block color = "red" font-size="32pt" space-after="20mm">
+    <fo:block color = "red" font-size="32pt" space-after="20px">
         Areas
     </fo:block>
     <fo:block>
@@ -38,9 +38,27 @@
 </xsl:template>
 
 <xsl:template match="area" mode="detail">
-    <fo:block id="{generate-id(.)}" font-size="32pt" space-after="20mm">
+    <fo:block id="{generate-id(.)}" font-size="32pt" space-after="20px" page-break-before="always">
         <xsl:value-of select="@name"/>
     </fo:block>
+	<fo:table table-layout="fixed" width="100%">
+        <fo:table-body>
+            <fo:table-row>
+                <xsl:apply-templates select="./section[@title='Images']/content[@type='image-link']"/>
+            </fo:table-row>
+        </fo:table-body>
+    </fo:table>
+</xsl:template>
+
+<xsl:template match="content[@type='image-link']">
+    <fo:table-cell>
+        <fo:block>
+			<xsl:value-of select="@description"/>
+        </fo:block>
+        <fo:block>
+            <fo:external-graphic src="url({@href})" content-height="80px"/>
+        </fo:block>
+    </fo:table-cell>
 </xsl:template>
 
 </xsl:stylesheet>
