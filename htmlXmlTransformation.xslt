@@ -21,15 +21,16 @@
     </xsl:element>
 </xsl:template>
 
-<!-- Flag -->
+<!-- Image -->
 <xsl:template match="div[@class='row no-gutters']">
     <xsl:if test="string-length(normalize-space(./div/div/div/img/@src))!=0">
         <xsl:element name="content">
-            <xsl:attribute name="title">
+            <xsl:attribute name="type">image-link</xsl:attribute>
+            <xsl:attribute name="description">
                 <xsl:value-of select="./div[2]/div/span"/>
             </xsl:attribute>
             <xsl:attribute name="href">
-                <xsl:value-of select="concat($source-url, ./div/div/div/img/@src)"/>
+                <xsl:value-of select="concat($source-url, ./div/div/div/img[last()]/@src)"/>
             </xsl:attribute>
         </xsl:element>
     </xsl:if>

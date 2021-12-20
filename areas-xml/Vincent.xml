@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <area name="Saint Vincent and the Grenadines">
    <section title="Images">
-      <content title="Country Flag"
+      <content type="image-link"
+               description="Country Flag"
                href="https://www.cia.gov/the-world-factbook/static/821765cdfb2b89fdf4946a8cb2d7fd2b/5a6d1/VC-flag.jpg"/>
-      <content title="Country Map"
+      <content type="image-link"
+               description="Country Map"
                href="https://www.cia.gov/the-world-factbook/static/cf3ede9139c887bb23f0328d04a04610/73b18/VC-map.jpg"/>
-      <content title="Locator Map"
+      <content type="image-link"
+               description="Locator Map"
                href="https://www.cia.gov/the-world-factbook/static/4a6d3b25fdd8aa39eb8cd1a850872ac9/9269d/VC-locator-map.jpg"/>
    </section>
    <section title="Introduction">
@@ -81,7 +84,10 @@
       <subsection title="Population distribution">
          <content>most of the population is concentrated in and around the capital of Kingstown</content>
       </subsection>
-      <subsection title="Natural hazards"/>
+      <subsection title="Natural hazards">
+         <content>hurricanes; La Soufriere volcano on the island of Saint Vincent is a constant threat</content>
+         <content>volcanism: La Soufriere (1,234 m) on the island of Saint Vincent last erupted in 1979; the island of Saint Vincent is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south</content>
+      </subsection>
       <subsection title="Geography - note">
          <content>the administration of the islands of the Grenadines group is divided between Saint Vincent and the Grenadines and Grenada; Saint Vincent and the Grenadines is comprised of 32 islands and cays</content>
       </subsection>
@@ -446,7 +452,10 @@
       </subsection>
    </section>
    <section title="Economy">
-      <subsection title="Economic overview"/>
+      <subsection title="Economic overview">
+         <content>Success of the economy hinges upon seasonal variations in agriculture, tourism, and construction activity, as well as remittances. Much of the workforce is employed in banana production and tourism. Saint Vincent and the Grenadines is home to a small offshore banking sector and continues to fully adopt international regulatory standards.</content>
+         <content>This lower-middle-income country remains vulnerable to natural and external shocks. The economy has shown some signs of recovery due to increased tourist arrivals, falling oil prices and renewed growth in the construction sector. The much anticipated international airport opened in early 2017 with hopes for increased airlift and tourism activity. The government's ability to invest in social programs and respond to external shocks is constrained by its high public debt burden, which was 67% of GDP at the end of 2013.</content>
+      </subsection>
       <subsection title="Real GDP (purchasing power parity)">
          <content>$1.34 billion note: data are in 2017 dollars (2020 est.)$1.38 billion note: data are in 2017 dollars (2019 est.)$1.37 billion note: data are in 2017 dollars (2018 est.)</content>
          <content type="strong">note:</content>
@@ -780,7 +789,11 @@
       </subsection>
    </section>
    <section title="Transnational Issues">
-      <subsection title="Disputes - international"/>
-      <subsection title="Illicit drugs"/>
+      <subsection title="Disputes - international">
+         <content>joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea</content>
+      </subsection>
+      <subsection title="Illicit drugs">
+         <content>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</content>
+      </subsection>
    </section>
 </area>

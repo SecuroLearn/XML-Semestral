@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <area name="Iceland">
    <section title="Images">
-      <content title="Country Flag"
+      <content type="image-link"
+               description="Country Flag"
                href="https://www.cia.gov/the-world-factbook/static/5383603e61da56f6586e50ecbe0ebe6f/38034/IC-flag.jpg"/>
-      <content title="Country Map"
+      <content type="image-link"
+               description="Country Map"
                href="https://www.cia.gov/the-world-factbook/static/b9c45c0bc1dfb505251c7844ab89de2b/40cb4/IC-map.jpg"/>
-      <content title="Locator Map"
+      <content type="image-link"
+               description="Locator Map"
                href="https://www.cia.gov/the-world-factbook/static/f9d3c5c3aea578d5fa62361c5ec309f6/3f1ef/IC-locator-map.jpg"/>
    </section>
    <section title="Introduction">

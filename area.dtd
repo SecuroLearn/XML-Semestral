@@ -1,0 +1,27 @@
+<!ELEMENT area (section+)>
+<!ELEMENT section ((subsection+) | (content+))>
+<!ELEMENT subsection (content+)>
+<!ELEMENT content (#PCDATA)>
+
+<!ATTLIST area name CDATA #REQUIRED>
+<!ATTLIST section title CDATA #REQUIRED>
+<!ATTLIST subsection title CDATA #REQUIRED>
+<!ATTLIST content type ( strong | image-link | external-link | comparison-link | audio-link ) #IMPLIED
+                  description CDATA #IMPLIED
+                  href CDATA #IMPLIED>
+
+<!--
+//////////////////////////////
+<!ELEMENT shoppingCart (item+)>
+<!ELEMENT item (title, description?, producer, price, type)>
+<!ELEMENT type EMPTY>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT producer (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+
+
+<!ATTLIST item id ID #REQUIRED>
+<!ATTLIST price currency ( CZK | EUR | USD ) #REQUIRED>
+<!ATTLIST type category ( compact | EVF | SLR ) #REQUIRED>
+-->
