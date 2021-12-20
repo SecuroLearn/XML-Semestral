@@ -27,6 +27,7 @@
     <xsl:apply-templates select="area" mode="detail"/>
 </xsl:template>
 
+<!-- Link to the HTML page for a specific country -->
 <xsl:template match="area" mode="link">
     <xsl:element name="li">
         <xsl:element name="a">
@@ -146,4 +147,5 @@
 </xsl:template>
 
 <xsl:template match="*"/>
+
 </xsl:stylesheet>
