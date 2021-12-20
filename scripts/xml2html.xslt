@@ -36,6 +36,12 @@
 <xsl:template match="area" mode="detail">
     <xsl:result-document href="{concat('output/html/', translate(@name, ' ()', ''), '.html' )}">
         <xsl:element name="html">
+            <xsl:element name="head">
+                <xsl:element name="link">
+                    <xsl:attribute name="rel">stylesheet</xsl:attribute>
+                    <xsl:attribute name="href">style.css</xsl:attribute>
+                </xsl:element>
+            </xsl:element>
             <xsl:element name="body">
                 <xsl:element name="h1">
                     <xsl:value-of select="@name"/>
