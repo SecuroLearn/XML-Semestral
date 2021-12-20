@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <area name="Saint Vincent and the Grenadines">
+   <section title="Images">
+      <content title="Country Flag"
+               href="https://www.cia.gov/the-world-factbook/static/821765cdfb2b89fdf4946a8cb2d7fd2b/5a6d1/VC-flag.jpg"/>
+      <content title="Country Map"
+               href="https://www.cia.gov/the-world-factbook/static/cf3ede9139c887bb23f0328d04a04610/73b18/VC-map.jpg"/>
+      <content title="Locator Map"
+               href="https://www.cia.gov/the-world-factbook/static/4a6d3b25fdd8aa39eb8cd1a850872ac9/9269d/VC-locator-map.jpg"/>
+   </section>
    <section title="Introduction">
       <subsection title="Background">
          <content>Resistance by native Caribs prevented colonization on Saint Vincent until 1719. Disputed between France and the UK for most of the 18th century, the island was ceded to the latter in 1783. The British prized Saint Vincent due to its fertile soil, which allowed for thriving slave-run plantations of sugar, coffee, indigo, tobacco, cotton, and cocoa. In 1834, the British abolished slavery. Immigration of indentured servants eased the ensuing labor shortage, as did subsequent Portuguese immigrants from Madeira and East Indian laborers. Conditions remained harsh for both former slaves and immigrant agricultural workers, however, as depressed world sugar prices kept the economy stagnant until the early 1900s. The economy then went into a period of decline with many landowners abandoning their estates and leaving the land to be cultivated by liberated slaves. Between 1960 and 1962, Saint Vincent and the Grenadines was a separate administrative unit of the Federation of the West Indies. Autonomy was granted in 1969 and independence in 1979.</content>
@@ -22,7 +30,7 @@
          <content>389 sq km</content>
          <content type="strong">water:</content>
          <content>0 sq km</content>
-         <content type="external-link">country comparison to the world: 204</content>
+         <content type="comparison-link">country comparison to the world: 204</content>
       </subsection>
       <subsection title="Area - comparative">
          <content>twice the size of Washington, DC</content>
@@ -81,7 +89,7 @@
    <section title="People and Society">
       <subsection title="Population">
          <content>101,145 (July 2021 est.)</content>
-         <content type="external-link">country comparison to the world: 195</content>
+         <content type="comparison-link">country comparison to the world: 195</content>
       </subsection>
       <subsection title="Nationality">
          <content type="strong">noun:</content>
@@ -127,23 +135,23 @@
          <content>35.4 years</content>
          <content type="strong">female:</content>
          <content>35.1 years (2020 est.)</content>
-         <content type="external-link">country comparison to the world: 86</content>
+         <content type="comparison-link">country comparison to the world: 86</content>
       </subsection>
       <subsection title="Population growth rate">
          <content>-0.18% (2021 est.)</content>
-         <content type="external-link">country comparison to the world: 205</content>
+         <content type="comparison-link">country comparison to the world: 205</content>
       </subsection>
       <subsection title="Birth rate">
          <content>12.44 births/1,000 population (2021 est.)</content>
-         <content type="external-link">country comparison to the world: 152</content>
+         <content type="comparison-link">country comparison to the world: 152</content>
       </subsection>
       <subsection title="Death rate">
          <content>7.42 deaths/1,000 population (2021 est.)</content>
-         <content type="external-link">country comparison to the world: 103</content>
+         <content type="comparison-link">country comparison to the world: 103</content>
       </subsection>
       <subsection title="Net migration rate">
          <content>-6.82 migrant(s)/1,000 population (2021 est.)</content>
-         <content type="external-link">country comparison to the world: 213</content>
+         <content type="comparison-link">country comparison to the world: 213</content>
       </subsection>
       <subsection title="Population distribution">
          <content>most of the population is concentrated in and around the capital of Kingstown</content>
@@ -175,7 +183,7 @@
       </subsection>
       <subsection title="Maternal mortality ratio">
          <content>98 deaths/100,000 live births (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 70</content>
+         <content type="comparison-link">country comparison to the world: 70</content>
       </subsection>
       <subsection title="Infant mortality rate">
          <content type="strong">total:</content>
@@ -184,7 +192,7 @@
          <content>14.9 deaths/1,000 live births</content>
          <content type="strong">female:</content>
          <content>11.38 deaths/1,000 live births (2021 est.)</content>
-         <content type="external-link">country comparison to the world: 110</content>
+         <content type="comparison-link">country comparison to the world: 110</content>
       </subsection>
       <subsection title="Life expectancy at birth">
          <content type="strong">total population:</content>
@@ -193,11 +201,11 @@
          <content>74.37 years</content>
          <content type="strong">female:</content>
          <content>78.55 years (2021 est.)</content>
-         <content type="external-link">country comparison to the world: 104</content>
+         <content type="comparison-link">country comparison to the world: 104</content>
       </subsection>
       <subsection title="Total fertility rate">
          <content>1.75 children born/woman (2021 est.)</content>
-         <content type="external-link">country comparison to the world: 157</content>
+         <content type="comparison-link">country comparison to the world: 157</content>
       </subsection>
       <subsection title="Contraceptive prevalence rate">
          <content>NA</content>
@@ -225,25 +233,25 @@
       </subsection>
       <subsection title="HIV/AIDS - adult prevalence rate">
          <content>1.5% (2018)</content>
-         <content type="external-link">country comparison to the world: 28</content>
+         <content type="comparison-link">country comparison to the world: 28</content>
       </subsection>
       <subsection title="HIV/AIDS - people living with HIV/AIDS">
          <content>1,200 (2018)</content>
-         <content type="external-link">country comparison to the world: 142</content>
+         <content type="comparison-link">country comparison to the world: 142</content>
       </subsection>
       <subsection title="HIV/AIDS - deaths">
          <content>&lt;100 (2018)</content>
       </subsection>
       <subsection title="Obesity - adult prevalence rate">
          <content>23.7% (2016)</content>
-         <content type="external-link">country comparison to the world: 64</content>
+         <content type="comparison-link">country comparison to the world: 64</content>
       </subsection>
       <subsection title="Children under the age of 5 years underweight">
          <content>NA</content>
       </subsection>
       <subsection title="Education expenditures">
          <content>5.7% of GDP (2018)</content>
-         <content type="external-link">country comparison to the world: 38</content>
+         <content type="comparison-link">country comparison to the world: 38</content>
       </subsection>
       <subsection title="School life expectancy (primary to tertiary education)">
          <content type="strong">total:</content>
@@ -292,12 +300,12 @@
       <subsection title="Revenue from forest resources">
          <content type="strong">forest revenues:</content>
          <content>0.02% of GDP (2018 est.)</content>
-         <content type="external-link">country comparison to the world: 144</content>
+         <content type="comparison-link">country comparison to the world: 144</content>
       </subsection>
       <subsection title="Revenue from coal">
          <content type="strong">coal revenues:</content>
          <content>0% of GDP (2018 est.)</content>
-         <content type="external-link">country comparison to the world: 159</content>
+         <content type="comparison-link">country comparison to the world: 159</content>
       </subsection>
       <subsection title="Waste and recycling">
          <content type="strong">municipal solid waste generated annually:</content>
@@ -414,6 +422,7 @@
          <content>[1] (202) 364-6730</content>
          <content type="strong">email address and website:</content>
          <content>mail@embsvg.com</content>
+         <content type="external-link" href="http://wa.embassy.gov.vc/washington/">http://wa.embassy.gov.vc/washington/</content>
          <content type="strong">consulate(s) general:</content>
          <content>New York</content>
       </subsection>
@@ -442,24 +451,24 @@
          <content>$1.34 billion note: data are in 2017 dollars (2020 est.)$1.38 billion note: data are in 2017 dollars (2019 est.)$1.37 billion note: data are in 2017 dollars (2018 est.)</content>
          <content type="strong">note:</content>
          <content>data are in 2017 dollars</content>
-         <content type="external-link">country comparison to the world: 203</content>
+         <content type="comparison-link">country comparison to the world: 203</content>
       </subsection>
       <subsection title="Real GDP growth rate">
          <content>0.7% (2017 est.)0.8% (2016 est.)0.8% (2015 est.)</content>
-         <content type="external-link">country comparison to the world: 181</content>
+         <content type="comparison-link">country comparison to the world: 181</content>
       </subsection>
       <subsection title="Real GDP per capita">
          <content>$12,100 note: data are in 2017 dollars (2020 est.)$12,500 note: data are in 2017 dollars (2019 est.)$12,500 note: data are in 2017 dollars (2018 est.)</content>
          <content type="strong">note:</content>
          <content>data are in 2017 dollars</content>
-         <content type="external-link">country comparison to the world: 127</content>
+         <content type="comparison-link">country comparison to the world: 127</content>
       </subsection>
       <subsection title="GDP (official exchange rate)">
          <content>$785 million (2017 est.)</content>
       </subsection>
       <subsection title="Inflation rate (consumer prices)">
          <content>2.2% (2017 est.)-0.2% (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 121</content>
+         <content type="comparison-link">country comparison to the world: 121</content>
       </subsection>
       <subsection title="Credit ratings">
          <content type="strong">Moody's rating:</content>
@@ -495,11 +504,11 @@
       </subsection>
       <subsection title="Industrial production growth rate">
          <content>2.5% (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 118</content>
+         <content type="comparison-link">country comparison to the world: 118</content>
       </subsection>
       <subsection title="Labor force">
          <content>57,520 (2007 est.)</content>
-         <content type="external-link">country comparison to the world: 187</content>
+         <content type="comparison-link">country comparison to the world: 187</content>
       </subsection>
       <subsection title="Labor force - by occupation">
          <content type="strong">agriculture:</content>
@@ -511,7 +520,7 @@
       </subsection>
       <subsection title="Unemployment rate">
          <content>18.8% (2008 est.)</content>
-         <content type="external-link">country comparison to the world: 185</content>
+         <content type="comparison-link">country comparison to the world: 185</content>
       </subsection>
       <subsection title="Population below poverty line">
          <content>NA</content>
@@ -530,26 +539,26 @@
       </subsection>
       <subsection title="Budget surplus (+) or deficit (-)">
          <content>-0.6% (of GDP) (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 66</content>
+         <content type="comparison-link">country comparison to the world: 66</content>
       </subsection>
       <subsection title="Public debt">
          <content>73.8% of GDP (2017 est.)82.8% of GDP (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 42</content>
+         <content type="comparison-link">country comparison to the world: 42</content>
       </subsection>
       <subsection title="Taxes and other revenues">
          <content>28.7% (of GDP) (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 93</content>
+         <content type="comparison-link">country comparison to the world: 93</content>
       </subsection>
       <subsection title="Fiscal year">
          <content>calendar year</content>
       </subsection>
       <subsection title="Current account balance">
          <content>-$116 million (2017 est.)-$122 million (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 90</content>
+         <content type="comparison-link">country comparison to the world: 90</content>
       </subsection>
       <subsection title="Exports">
          <content>$320 million note: data are in current year dollars (2018 est.)$47.3 million (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 199</content>
+         <content type="comparison-link">country comparison to the world: 199</content>
       </subsection>
       <subsection title="Exports - partners">
          <content>Jordan 39%, Singapore 14% (2019)</content>
@@ -559,7 +568,7 @@
       </subsection>
       <subsection title="Imports">
          <content>$450 million note: data are in current year dollars (2018 est.)$294.6 million (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 205</content>
+         <content type="comparison-link">country comparison to the world: 205</content>
       </subsection>
       <subsection title="Imports - partners">
          <content>United States 30%, Trinidad and Tobago 12%, China 8%, United Kingdom 6% (2019)</content>
@@ -569,11 +578,11 @@
       </subsection>
       <subsection title="Reserves of foreign exchange and gold">
          <content>$182.1 million (31 December 2017 est.)$192.3 million (31 December 2016 est.)</content>
-         <content type="external-link">country comparison to the world: 178</content>
+         <content type="comparison-link">country comparison to the world: 178</content>
       </subsection>
       <subsection title="Debt - external">
          <content>$362.2 million (31 December 2017 est.)$330.8 million (31 December 2016 est.)</content>
-         <content type="external-link">country comparison to the world: 182</content>
+         <content type="comparison-link">country comparison to the world: 182</content>
       </subsection>
       <subsection title="Exchange rates">
          <content>East Caribbean dollars (XCD) per US dollar -2.7 (2017 est.)2.7 (2016 est.)2.7 (2015 est.)2.7 (2014 est.)2.7 (2013 est.)</content>
@@ -586,91 +595,91 @@
       </subsection>
       <subsection title="Electricity - production">
          <content>157 million kWh (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 196</content>
+         <content type="comparison-link">country comparison to the world: 196</content>
       </subsection>
       <subsection title="Electricity - consumption">
          <content>146 million kWh (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 198</content>
+         <content type="comparison-link">country comparison to the world: 198</content>
       </subsection>
       <subsection title="Electricity - exports">
          <content>0 kWh (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 191</content>
+         <content type="comparison-link">country comparison to the world: 191</content>
       </subsection>
       <subsection title="Electricity - imports">
          <content>0 kWh (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 193</content>
+         <content type="comparison-link">country comparison to the world: 193</content>
       </subsection>
       <subsection title="Electricity - installed generating capacity">
          <content>54,000 kW (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 188</content>
+         <content type="comparison-link">country comparison to the world: 188</content>
       </subsection>
       <subsection title="Electricity - from fossil fuels">
          <content>85% of total installed capacity (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 72</content>
+         <content type="comparison-link">country comparison to the world: 72</content>
       </subsection>
       <subsection title="Electricity - from nuclear fuels">
          <content>0% of total installed capacity (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 175</content>
+         <content type="comparison-link">country comparison to the world: 175</content>
       </subsection>
       <subsection title="Electricity - from hydroelectric plants">
          <content>13% of total installed capacity (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 110</content>
+         <content type="comparison-link">country comparison to the world: 110</content>
       </subsection>
       <subsection title="Electricity - from other renewable sources">
          <content>2% of total installed capacity (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 142</content>
+         <content type="comparison-link">country comparison to the world: 142</content>
       </subsection>
       <subsection title="Crude oil - production">
          <content>0 bbl/day (2018 est.)</content>
-         <content type="external-link">country comparison to the world: 194</content>
+         <content type="comparison-link">country comparison to the world: 194</content>
       </subsection>
       <subsection title="Crude oil - exports">
          <content>0 bbl/day (2015 est.)</content>
-         <content type="external-link">country comparison to the world: 187</content>
+         <content type="comparison-link">country comparison to the world: 187</content>
       </subsection>
       <subsection title="Crude oil - imports">
          <content>0 bbl/day (2015 est.)</content>
-         <content type="external-link">country comparison to the world: 189</content>
+         <content type="comparison-link">country comparison to the world: 189</content>
       </subsection>
       <subsection title="Crude oil - proved reserves">
          <content>0 bbl (1 January 2018 est.)</content>
-         <content type="external-link">country comparison to the world: 189</content>
+         <content type="comparison-link">country comparison to the world: 189</content>
       </subsection>
       <subsection title="Refined petroleum products - production">
          <content>0 bbl/day (2015 est.)</content>
-         <content type="external-link">country comparison to the world: 196</content>
+         <content type="comparison-link">country comparison to the world: 196</content>
       </subsection>
       <subsection title="Refined petroleum products - consumption">
          <content>1,620 bbl/day (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 197</content>
+         <content type="comparison-link">country comparison to the world: 197</content>
       </subsection>
       <subsection title="Refined petroleum products - exports">
          <content>0 bbl/day (2015 est.)</content>
-         <content type="external-link">country comparison to the world: 197</content>
+         <content type="comparison-link">country comparison to the world: 197</content>
       </subsection>
       <subsection title="Refined petroleum products - imports">
          <content>1,621 bbl/day (2015 est.)</content>
-         <content type="external-link">country comparison to the world: 193</content>
+         <content type="comparison-link">country comparison to the world: 193</content>
       </subsection>
       <subsection title="Natural gas - production">
          <content>0 cu m (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 191</content>
+         <content type="comparison-link">country comparison to the world: 191</content>
       </subsection>
       <subsection title="Natural gas - consumption">
          <content>0 cu m (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 193</content>
+         <content type="comparison-link">country comparison to the world: 193</content>
       </subsection>
       <subsection title="Natural gas - exports">
          <content>0 cu m (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 176</content>
+         <content type="comparison-link">country comparison to the world: 176</content>
       </subsection>
       <subsection title="Natural gas - imports">
          <content>0 cu m (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 182</content>
+         <content type="comparison-link">country comparison to the world: 182</content>
       </subsection>
       <subsection title="Natural gas - proved reserves">
          <content>0 cu m (1 January 2014 est.)</content>
-         <content type="external-link">country comparison to the world: 188</content>
+         <content type="comparison-link">country comparison to the world: 188</content>
       </subsection>
    </section>
    <section title="Communications">
@@ -679,14 +688,14 @@
          <content>12,483 (2020)</content>
          <content type="strong">subscriptions per 100 inhabitants:</content>
          <content>11.25 (2020 est.)</content>
-         <content type="external-link">country comparison to the world: 186</content>
+         <content type="comparison-link">country comparison to the world: 186</content>
       </subsection>
       <subsection title="Telephones - mobile cellular">
          <content type="strong">total subscriptions:</content>
          <content>97,059 (2020)</content>
          <content type="strong">subscriptions per 100 inhabitants:</content>
          <content>87.49 (2020 est.)</content>
-         <content type="external-link">country comparison to the world: 193</content>
+         <content type="comparison-link">country comparison to the world: 193</content>
       </subsection>
       <subsection title="Telecommunication systems">
          <content type="strong">general assessment:</content>
@@ -709,14 +718,14 @@
          <content>22,803</content>
          <content type="strong">percent of population:</content>
          <content>22.39% (July 2018 est.)</content>
-         <content type="external-link">country comparison to the world: 209</content>
+         <content type="comparison-link">country comparison to the world: 209</content>
       </subsection>
       <subsection title="Broadband - fixed subscriptions">
          <content type="strong">total:</content>
          <content>24,494 (2020)</content>
          <content type="strong">subscriptions per 100 inhabitants:</content>
          <content>22.08 (2020 est.)</content>
-         <content type="external-link">country comparison to the world: 158</content>
+         <content type="comparison-link">country comparison to the world: 158</content>
       </subsection>
    </section>
    <section title="Transportation">
@@ -732,7 +741,7 @@
       <subsection title="Airports">
          <content type="strong">total:</content>
          <content>6 (2013)</content>
-         <content type="external-link">country comparison to the world: 176</content>
+         <content type="comparison-link">country comparison to the world: 176</content>
       </subsection>
       <subsection title="Airports - with paved runways">
          <content type="strong">total:</content>
@@ -755,7 +764,7 @@
          <content>792</content>
          <content type="strong">by type:</content>
          <content>bulk carrier 27, container ship 17, general cargo 155, oil tanker 16, other 577 (2021)</content>
-         <content type="external-link">country comparison to the world: 30</content>
+         <content type="comparison-link">country comparison to the world: 30</content>
       </subsection>
       <subsection title="Ports and terminals">
          <content type="strong">major seaport(s):</content>

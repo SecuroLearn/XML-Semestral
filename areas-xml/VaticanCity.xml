@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <area name="Holy See (Vatican City)">
+   <section title="Images">
+      <content title="Country Flag"
+               href="https://www.cia.gov./holy-see-vatican-city_files/VT-flag.jpg"/>
+      <content title="Country Map"
+               href="https://www.cia.gov./holy-see-vatican-city_files/VT-map.jpg"/>
+      <content title="Locator Map"
+               href="https://www.cia.gov./holy-see-vatican-city_files/VT-locator-map.jpg"/>
+   </section>
    <section title="Introduction">
       <subsection title="Background">
          <content>Popes in their secular role ruled portions of the Italian peninsula for more than a thousand years until the mid-19th century, when many of the Papal States were seized by the newly united Kingdom of Italy. In 1870, the pope's holdings were further circumscribed when Rome itself was annexed. Disputes between a series of "prisoner" popes and Italy were resolved in 1929 by three Lateran Treaties, which established the independent state of Vatican City and granted Roman Catholicism special status in Italy. In 1984, a concordat between the Holy See and Italy modified certain of the earlier treaty provisions, including the primacy of Roman Catholicism as the Italian state religion. Present concerns of the Holy See include religious freedom, threats against minority Christian communities in Africa and the Middle East, the plight of refugees and migrants, sexual misconduct by clergy, international development, interreligious dialogue and reconciliation, and the application of church doctrine in an era of rapid change and globalization. About 1.3 billion people worldwide profess Catholicism - the world's largest Christian faith.</content>
@@ -22,7 +30,7 @@
          <content>0.44 sq km</content>
          <content type="strong">water:</content>
          <content>0 sq km</content>
-         <content type="external-link">country comparison to the world: 257</content>
+         <content type="comparison-link">country comparison to the world: 257</content>
       </subsection>
       <subsection title="Area - comparative">
          <content>about 0.7 times the size of the National Mall in Washington, DC</content>
@@ -70,7 +78,7 @@
    <section title="People and Society">
       <subsection title="Population">
          <content>1,000 (2019 est.)</content>
-         <content type="external-link">country comparison to the world: 235</content>
+         <content type="comparison-link">country comparison to the world: 235</content>
       </subsection>
       <subsection title="Nationality">
          <content type="strong">noun:</content>
@@ -85,6 +93,8 @@
          <content>Italian, Latin, French, various other languages</content>
          <content type="strong">major-language sample(s):</content>
          <content>L'Almanacco dei fatti del mondo, l'indispensabile fonte per le informazioni di base. (Italian)The World Factbook, the indispensable source for basic information.</content>
+         <content type="audio-link"
+                  href="https://www.cia.gov/the-world-factbook/static/05f58c9a0cf3db6e155ac282ed504eda/Italian-3.mp3"/>
       </subsection>
       <subsection title="Religions">
          <content>Roman Catholic</content>
@@ -113,7 +123,7 @@
       </subsection>
       <subsection title="Population growth rate">
          <content>0% (2014 est.)</content>
-         <content type="external-link">country comparison to the world: 194</content>
+         <content type="comparison-link">country comparison to the world: 194</content>
       </subsection>
       <subsection title="Birth rate">
          <content>NA</content>
@@ -298,6 +308,7 @@
          <content>[1] (202) 337-4036</content>
          <content type="strong">email address and website:</content>
          <content>nuntiususa@nuntiususa.org</content>
+         <content type="external-link" href="http://www.nuntiususa.org/">http://www.nuntiususa.org/</content>
       </subsection>
       <subsection title="Diplomatic representation from the US">
          <content type="strong">chief of mission:</content>
@@ -311,6 +322,7 @@
          <content type="strong">FAX:</content>
          <content>[39] (06) 4674-3411</content>
          <content type="strong">email address and website:</content>
+         <content type="external-link" href="https://va.usembassy.gov/">https://va.usembassy.gov/</content>
       </subsection>
       <subsection title="Flag description">
          <content>two vertical bands of yellow (hoist side) and white with the arms of the Holy See, consisting of the crossed keys of Saint Peter surmounted by the three-tiered papal tiara, centered in the white band; the yellow color represents the pope's spiritual power, the white his worldly power</content>
@@ -325,6 +337,8 @@
          <content>Raffaello LAVAGNA/Charles-Francois GOUNOD</content>
          <content type="strong">note:</content>
          <content>adopted 1950</content>
+         <content type="audio-link"
+                  href="https://www.cia.gov/the-world-factbook/static/7b11adc04a30d58e46b2673108a2c4c7/VT.mp3"/>
       </subsection>
    </section>
    <section title="Economy">
@@ -335,7 +349,7 @@
       </subsection>
       <subsection title="Labor force">
          <content>4,822 (2016)</content>
-         <content type="external-link">country comparison to the world: 220</content>
+         <content type="comparison-link">country comparison to the world: 220</content>
       </subsection>
       <subsection title="Labor force - by occupation"/>
       <subsection title="Population below poverty line">

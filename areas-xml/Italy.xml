@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <area name="Italy">
+   <section title="Images">
+      <content title="Country Flag"
+               href="https://www.cia.gov./italy_files/IT-flag.jpg"/>
+      <content title="Country Map" href="https://www.cia.gov./italy_files/IT-map.jpg"/>
+      <content title="Locator Map"
+               href="https://www.cia.gov./italy_files/IT-locator-map.jpg"/>
+   </section>
    <section title="Introduction">
       <subsection title="Background"/>
    </section>
@@ -22,7 +29,7 @@
          <content>7,200 sq km</content>
          <content type="strong">note:</content>
          <content>includes Sardinia and Sicily</content>
-         <content type="external-link">country comparison to the world: 73</content>
+         <content type="comparison-link">country comparison to the world: 73</content>
       </subsection>
       <subsection title="Area - comparative">
          <content>almost twice the size of Georgia; slightly larger than Arizona</content>
@@ -87,7 +94,7 @@
    <section title="People and Society">
       <subsection title="Population">
          <content>62,390,364 (July 2021 est.)</content>
-         <content type="external-link">country comparison to the world: 23</content>
+         <content type="comparison-link">country comparison to the world: 23</content>
       </subsection>
       <subsection title="Nationality">
          <content type="strong">noun:</content>
@@ -102,6 +109,8 @@
          <content>Italian (official), German (parts of Trentino-Alto Adige region are predominantly German speaking), French (small French-speaking minority in Valle d'Aosta region), Slovene (Slovene-speaking minority in the Trieste-Gorizia area)</content>
          <content type="strong">major-language sample(s):</content>
          <content>L'Almanacco dei fatti del mondo, l'indispensabile fonte per le informazioni di base. (Italian)The World Factbook, the indispensable source for basic information.</content>
+         <content type="audio-link"
+                  href="https://www.cia.gov/the-world-factbook/static/05f58c9a0cf3db6e155ac282ed504eda/Italian.mp3"/>
       </subsection>
       <subsection title="Religions">
          <content>Christian 80.8% (overwhelmingly Roman Catholic with very small groups of Jehovah's Witnesses and Protestants), Muslim 4.9%, unaffiliated 13.4%, other 0.9% (2020 est.)</content>
@@ -135,23 +144,23 @@
          <content>45.4 years</content>
          <content type="strong">female:</content>
          <content>47.5 years (2020 est.)</content>
-         <content type="external-link">country comparison to the world: 5</content>
+         <content type="comparison-link">country comparison to the world: 5</content>
       </subsection>
       <subsection title="Population growth rate">
          <content>0.09% (2021 est.)</content>
-         <content type="external-link">country comparison to the world: 186</content>
+         <content type="comparison-link">country comparison to the world: 186</content>
       </subsection>
       <subsection title="Birth rate">
          <content>8.37 births/1,000 population (2021 est.)</content>
-         <content type="external-link">country comparison to the world: 216</content>
+         <content type="comparison-link">country comparison to the world: 216</content>
       </subsection>
       <subsection title="Death rate">
          <content>10.7 deaths/1,000 population (2021 est.)</content>
-         <content type="external-link">country comparison to the world: 24</content>
+         <content type="comparison-link">country comparison to the world: 24</content>
       </subsection>
       <subsection title="Net migration rate">
          <content>3.21 migrant(s)/1,000 population (2021 est.)</content>
-         <content type="external-link">country comparison to the world: 34</content>
+         <content type="comparison-link">country comparison to the world: 34</content>
       </subsection>
       <subsection title="Population distribution">
          <content>despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations</content>
@@ -186,7 +195,7 @@
       </subsection>
       <subsection title="Maternal mortality ratio">
          <content>2 deaths/100,000 live births (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 182</content>
+         <content type="comparison-link">country comparison to the world: 182</content>
       </subsection>
       <subsection title="Infant mortality rate">
          <content type="strong">total:</content>
@@ -195,7 +204,7 @@
          <content>3.4 deaths/1,000 live births</content>
          <content type="strong">female:</content>
          <content>2.87 deaths/1,000 live births (2021 est.)</content>
-         <content type="external-link">country comparison to the world: 210</content>
+         <content type="comparison-link">country comparison to the world: 210</content>
       </subsection>
       <subsection title="Life expectancy at birth">
          <content type="strong">total population:</content>
@@ -204,11 +213,11 @@
          <content>80.01 years</content>
          <content type="strong">female:</content>
          <content>85.49 years (2021 est.)</content>
-         <content type="external-link">country comparison to the world: 17</content>
+         <content type="comparison-link">country comparison to the world: 17</content>
       </subsection>
       <subsection title="Total fertility rate">
          <content>1.47 children born/woman (2021 est.)</content>
-         <content type="external-link">country comparison to the world: 209</content>
+         <content type="comparison-link">country comparison to the world: 209</content>
       </subsection>
       <subsection title="Contraceptive prevalence rate">
          <content>65.1% (2013)</content>
@@ -238,13 +247,13 @@
       </subsection>
       <subsection title="HIV/AIDS - adult prevalence rate">
          <content>0.2% (2020 est.)</content>
-         <content type="external-link">country comparison to the world: 104</content>
+         <content type="comparison-link">country comparison to the world: 104</content>
       </subsection>
       <subsection title="HIV/AIDS - people living with HIV/AIDS">
          <content>140,000 (2020 est.)</content>
          <content type="strong">note:</content>
          <content>estimate does not include children</content>
-         <content type="external-link">country comparison to the world: 37</content>
+         <content type="comparison-link">country comparison to the world: 37</content>
       </subsection>
       <subsection title="HIV/AIDS - deaths">
          <content>&lt;1000 (2020 est.)</content>
@@ -257,14 +266,14 @@
       </subsection>
       <subsection title="Obesity - adult prevalence rate">
          <content>19.9% (2016)</content>
-         <content type="external-link">country comparison to the world: 108</content>
+         <content type="comparison-link">country comparison to the world: 108</content>
       </subsection>
       <subsection title="Children under the age of 5 years underweight">
          <content>NA</content>
       </subsection>
       <subsection title="Education expenditures">
          <content>4.3% of GDP (2018)</content>
-         <content type="external-link">country comparison to the world: 91</content>
+         <content type="comparison-link">country comparison to the world: 91</content>
       </subsection>
       <subsection title="Literacy">
          <content type="strong">definition:</content>
@@ -329,12 +338,12 @@
       <subsection title="Revenue from forest resources">
          <content type="strong">forest revenues:</content>
          <content>0.01% of GDP (2018 est.)</content>
-         <content type="external-link">country comparison to the world: 151</content>
+         <content type="comparison-link">country comparison to the world: 151</content>
       </subsection>
       <subsection title="Revenue from coal">
          <content type="strong">coal revenues:</content>
          <content>0% of GDP (2018 est.)</content>
-         <content type="external-link">country comparison to the world: 117</content>
+         <content type="comparison-link">country comparison to the world: 117</content>
       </subsection>
       <subsection title="Major infectious diseases">
          <content type="strong">respiratory diseases:</content>
@@ -475,6 +484,8 @@
          <content>[1] (202) 518-2154</content>
          <content type="strong">email address and website:</content>
          <content>amb.washington@cert.esteri.it</content>
+         <content type="external-link"
+                  href="https://ambwashingtondc.esteri.it/ambasciata_washington/en/">https://ambwashingtondc.esteri.it/ambasciata_washington/en/</content>
          <content type="strong">consulate(s) general:</content>
          <content>Boston, Chicago, Detroit, Houston, Miami, New York, Los Angeles, Philadelphia, San Francisco</content>
          <content type="strong">consulate(s):</content>
@@ -493,6 +504,7 @@
          <content>[39] 06-4674-2244</content>
          <content type="strong">email address and website:</content>
          <content>uscitizenrome@state.gov</content>
+         <content type="external-link" href="https://it.usembassy.gov/">https://it.usembassy.gov/</content>
          <content type="strong">consulate(s) general:</content>
          <content>Florence, Milan, Naples</content>
       </subsection>
@@ -511,6 +523,8 @@
          <content>Goffredo MAMELI/Michele NOVARO</content>
          <content type="strong">note:</content>
          <content>adopted 1946; the anthem, originally written in 1847, is also known as "L'Inno di Mameli" (Mameli's Hymn), and "Fratelli D'Italia" (Brothers of Italy)</content>
+         <content type="audio-link"
+                  href="https://www.cia.gov/the-world-factbook/static/ac9298164bacd10e19681cbe80f84fe6/IT.mp3"/>
       </subsection>
    </section>
    <section title="Economy">
@@ -519,24 +533,24 @@
          <content>$2,322,140,000,000 note: data are in 2017 dollars (2020 est.)$2,548,190,000,000 note: data are in 2017 dollars (2019 est.)$2,540,890,000,000 note: data are in 2017 dollars (2018 est.)</content>
          <content type="strong">note:</content>
          <content>data are in 2010 dollars</content>
-         <content type="external-link">country comparison to the world: 12</content>
+         <content type="comparison-link">country comparison to the world: 12</content>
       </subsection>
       <subsection title="Real GDP growth rate">
          <content>0.34% (2019 est.)0.83% (2018 est.)1.73% (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 187</content>
+         <content type="comparison-link">country comparison to the world: 187</content>
       </subsection>
       <subsection title="Real GDP per capita">
          <content>$39,000 note: data are in 2017 dollars (2020 est.)$42,700 note: data are in 2017 dollars (2019 est.)$42,100 note: data are in 2017 dollars (2018 est.)</content>
          <content type="strong">note:</content>
          <content>data are in 2010 dollars</content>
-         <content type="external-link">country comparison to the world: 45</content>
+         <content type="comparison-link">country comparison to the world: 45</content>
       </subsection>
       <subsection title="GDP (official exchange rate)">
          <content>$2,002,763,000,000 (2019 est.)</content>
       </subsection>
       <subsection title="Inflation rate (consumer prices)">
          <content>0.6% (2019 est.)1.1% (2018 est.)1.2% (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 47</content>
+         <content type="comparison-link">country comparison to the world: 47</content>
       </subsection>
       <subsection title="Credit ratings">
          <content type="strong">Fitch rating:</content>
@@ -576,11 +590,11 @@
       </subsection>
       <subsection title="Industrial production growth rate">
          <content>2.1% (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 128</content>
+         <content type="comparison-link">country comparison to the world: 128</content>
       </subsection>
       <subsection title="Labor force">
          <content>22.92 million (2020 est.)</content>
-         <content type="external-link">country comparison to the world: 24</content>
+         <content type="comparison-link">country comparison to the world: 24</content>
       </subsection>
       <subsection title="Labor force - by occupation">
          <content type="strong">agriculture:</content>
@@ -592,14 +606,14 @@
       </subsection>
       <subsection title="Unemployment rate">
          <content>9.88% (2019 est.)10.63% (2018 est.)</content>
-         <content type="external-link">country comparison to the world: 146</content>
+         <content type="comparison-link">country comparison to the world: 146</content>
       </subsection>
       <subsection title="Population below poverty line">
          <content>20.1% (2018 est.)</content>
       </subsection>
       <subsection title="Gini Index coefficient - distribution of family income">
          <content>35.9 (2017 est.)27.3 (1995)</content>
-         <content type="external-link">country comparison to the world: 97</content>
+         <content type="comparison-link">country comparison to the world: 97</content>
       </subsection>
       <subsection title="Household income or consumption by percentage share">
          <content type="strong">lowest 10%:</content>
@@ -615,28 +629,28 @@
       </subsection>
       <subsection title="Budget surplus (+) or deficit (-)">
          <content>-2.3% (of GDP) (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 111</content>
+         <content type="comparison-link">country comparison to the world: 111</content>
       </subsection>
       <subsection title="Public debt">
          <content>131.8% of GDP (2017 est.)132% of GDP (2016 est.)</content>
          <content type="strong">note:</content>
          <content>Italy reports its data on public debt according to guidelines set out in the Maastricht Treaty; general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year, in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises central, state, and local government and social security funds</content>
-         <content type="external-link">country comparison to the world: 5</content>
+         <content type="comparison-link">country comparison to the world: 5</content>
       </subsection>
       <subsection title="Taxes and other revenues">
          <content>46.6% (of GDP) (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 20</content>
+         <content type="comparison-link">country comparison to the world: 20</content>
       </subsection>
       <subsection title="Fiscal year">
          <content>calendar year</content>
       </subsection>
       <subsection title="Current account balance">
          <content>$59.517 billion (2019 est.)$51.735 billion (2018 est.)</content>
-         <content type="external-link">country comparison to the world: 10</content>
+         <content type="comparison-link">country comparison to the world: 10</content>
       </subsection>
       <subsection title="Exports">
          <content>$558.26 billion note: data are in current year dollars (2020 est.)$636.01 billion note: data are in current year dollars (2019 est.)$656.06 billion note: data are in current year dollars (2018 est.)</content>
-         <content type="external-link">country comparison to the world: 11</content>
+         <content type="comparison-link">country comparison to the world: 11</content>
       </subsection>
       <subsection title="Exports - partners">
          <content>Germany 12%, France 11%, United States 10%, United Kingdom 5%, Spain 5%, Switzerland 5% (2019)</content>
@@ -646,7 +660,7 @@
       </subsection>
       <subsection title="Imports">
          <content>$486.35 billion note: data are in current year dollars (2020 est.)$569.7 billion note: data are in current year dollars (2019 est.)$605.44 billion note: data are in current year dollars (2018 est.)</content>
-         <content type="external-link">country comparison to the world: 13</content>
+         <content type="comparison-link">country comparison to the world: 13</content>
       </subsection>
       <subsection title="Imports - partners">
          <content>Germany 16%, France 9%, China 7%, Spain 5%, Netherlands 5%, Belgium 5% (2019)</content>
@@ -656,11 +670,11 @@
       </subsection>
       <subsection title="Reserves of foreign exchange and gold">
          <content>$151.2 billion (31 December 2017 est.)$130.6 billion (31 December 2015 est.)</content>
-         <content type="external-link">country comparison to the world: 17</content>
+         <content type="comparison-link">country comparison to the world: 17</content>
       </subsection>
       <subsection title="Debt - external">
          <content>$2,463,208,000,000 (2019 est.)$2,533,153,000,000 (2018 est.)</content>
-         <content type="external-link">country comparison to the world: 10</content>
+         <content type="comparison-link">country comparison to the world: 10</content>
       </subsection>
       <subsection title="Exchange rates">
          <content>euros (EUR) per US dollar -0.82771 (2020 est.)0.90338 (2019 est.)0.87789 (2018 est.)0.885 (2014 est.)0.7634 (2013 est.)</content>
@@ -672,7 +686,7 @@
          <content>27.9%</content>
          <content type="strong">female:</content>
          <content>31.8% (2020 est.)</content>
-         <content type="external-link">country comparison to the world: 36</content>
+         <content type="comparison-link">country comparison to the world: 36</content>
       </subsection>
    </section>
    <section title="Energy">
@@ -682,91 +696,91 @@
       </subsection>
       <subsection title="Electricity - production">
          <content>275.3 billion kWh (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 14</content>
+         <content type="comparison-link">country comparison to the world: 14</content>
       </subsection>
       <subsection title="Electricity - consumption">
          <content>293.5 billion kWh (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 13</content>
+         <content type="comparison-link">country comparison to the world: 13</content>
       </subsection>
       <subsection title="Electricity - exports">
          <content>6.155 billion kWh (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 30</content>
+         <content type="comparison-link">country comparison to the world: 30</content>
       </subsection>
       <subsection title="Electricity - imports">
          <content>43.18 billion kWh (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 2</content>
+         <content type="comparison-link">country comparison to the world: 2</content>
       </subsection>
       <subsection title="Electricity - installed generating capacity">
          <content>114.2 million kW (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 10</content>
+         <content type="comparison-link">country comparison to the world: 10</content>
       </subsection>
       <subsection title="Electricity - from fossil fuels">
          <content>54% of total installed capacity (2016 est.)</content>
-         <content type="external-link">country comparison to the world: 143</content>
+         <content type="comparison-link">country comparison to the world: 143</content>
       </subsection>
       <subsection title="Electricity - from nuclear fuels">
          <content>0% of total installed capacity (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 114</content>
+         <content type="comparison-link">country comparison to the world: 114</content>
       </subsection>
       <subsection title="Electricity - from hydroelectric plants">
          <content>14% of total installed capacity (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 106</content>
+         <content type="comparison-link">country comparison to the world: 106</content>
       </subsection>
       <subsection title="Electricity - from other renewable sources">
          <content>32% of total installed capacity (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 13</content>
+         <content type="comparison-link">country comparison to the world: 13</content>
       </subsection>
       <subsection title="Crude oil - production">
          <content>90,000 bbl/day (2018 est.)</content>
-         <content type="external-link">country comparison to the world: 44</content>
+         <content type="comparison-link">country comparison to the world: 44</content>
       </subsection>
       <subsection title="Crude oil - exports">
          <content>13,790 bbl/day (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 57</content>
+         <content type="comparison-link">country comparison to the world: 57</content>
       </subsection>
       <subsection title="Crude oil - imports">
          <content>1.341 million bbl/day (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 7</content>
+         <content type="comparison-link">country comparison to the world: 7</content>
       </subsection>
       <subsection title="Crude oil - proved reserves">
          <content>487.8 million bbl (1 January 2018 est.)</content>
-         <content type="external-link">country comparison to the world: 45</content>
+         <content type="comparison-link">country comparison to the world: 45</content>
       </subsection>
       <subsection title="Refined petroleum products - production">
          <content>1.607 million bbl/day (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 12</content>
+         <content type="comparison-link">country comparison to the world: 12</content>
       </subsection>
       <subsection title="Refined petroleum products - consumption">
          <content>1.236 million bbl/day (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 19</content>
+         <content type="comparison-link">country comparison to the world: 19</content>
       </subsection>
       <subsection title="Refined petroleum products - exports">
          <content>615,900 bbl/day (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 13</content>
+         <content type="comparison-link">country comparison to the world: 13</content>
       </subsection>
       <subsection title="Refined petroleum products - imports">
          <content>422,500 bbl/day (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 19</content>
+         <content type="comparison-link">country comparison to the world: 19</content>
       </subsection>
       <subsection title="Natural gas - production">
          <content>5.55 billion cu m (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 50</content>
+         <content type="comparison-link">country comparison to the world: 50</content>
       </subsection>
       <subsection title="Natural gas - consumption">
          <content>75.15 billion cu m (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 11</content>
+         <content type="comparison-link">country comparison to the world: 11</content>
       </subsection>
       <subsection title="Natural gas - exports">
          <content>271.8 million cu m (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 44</content>
+         <content type="comparison-link">country comparison to the world: 44</content>
       </subsection>
       <subsection title="Natural gas - imports">
          <content>69.66 billion cu m (2017 est.)</content>
-         <content type="external-link">country comparison to the world: 5</content>
+         <content type="comparison-link">country comparison to the world: 5</content>
       </subsection>
       <subsection title="Natural gas - proved reserves">
          <content>38.11 billion cu m (1 January 2018 est.)</content>
-         <content type="external-link">country comparison to the world: 65</content>
+         <content type="comparison-link">country comparison to the world: 65</content>
       </subsection>
    </section>
    <section title="Communications">
@@ -775,14 +789,14 @@
          <content>19,430,559 (2020)</content>
          <content type="strong">subscriptions per 100 inhabitants:</content>
          <content>32.14 (2020 est.)</content>
-         <content type="external-link">country comparison to the world: 14</content>
+         <content type="comparison-link">country comparison to the world: 14</content>
       </subsection>
       <subsection title="Telephones - mobile cellular">
          <content type="strong">total subscriptions:</content>
          <content>77,796,840 (2020)</content>
          <content type="strong">subscriptions per 100 inhabitants:</content>
          <content>128.7 (2020 est.)</content>
-         <content type="external-link">country comparison to the world: 21</content>
+         <content type="comparison-link">country comparison to the world: 21</content>
       </subsection>
       <subsection title="Telecommunication systems">
          <content type="strong">general assessment:</content>
@@ -805,14 +819,14 @@
          <content>50.54 million (2021 est.)</content>
          <content type="strong">percent of population:</content>
          <content>63.08% (2019 est.)</content>
-         <content type="external-link">country comparison to the world: 18</content>
+         <content type="comparison-link">country comparison to the world: 18</content>
       </subsection>
       <subsection title="Broadband - fixed subscriptions">
          <content type="strong">total:</content>
          <content>17,855,620 (2020)</content>
          <content type="strong">subscriptions per 100 inhabitants:</content>
          <content>29.53 (2020 est.)</content>
-         <content type="external-link">country comparison to the world: 12</content>
+         <content type="comparison-link">country comparison to the world: 12</content>
       </subsection>
    </section>
    <section title="Transportation">
@@ -832,7 +846,7 @@
       <subsection title="Airports">
          <content type="strong">total:</content>
          <content>129 (2013)</content>
-         <content type="external-link">country comparison to the world: 44</content>
+         <content type="comparison-link">country comparison to the world: 44</content>
       </subsection>
       <subsection title="Airports - with paved runways">
          <content type="strong">total:</content>
@@ -871,25 +885,25 @@
          <content>18,770.1 km 1.435-m gauge (12,893.6 km electrified) (2014)</content>
          <content type="strong">narrow gauge:</content>
          <content>122.3 km 1.000-m gauge (122.3 km electrified) (2014)1289.3 0.950-m gauge (151.3 km electrified)</content>
-         <content type="external-link">country comparison to the world: 15</content>
+         <content type="comparison-link">country comparison to the world: 15</content>
       </subsection>
       <subsection title="Roadways">
          <content type="strong">total:</content>
          <content>487,700 km (2007)</content>
          <content type="strong">paved:</content>
          <content>487,700 km (includes 6,700 km of expressways) (2007)</content>
-         <content type="external-link">country comparison to the world: 15</content>
+         <content type="comparison-link">country comparison to the world: 15</content>
       </subsection>
       <subsection title="Waterways">
          <content>2,400 km (used for commercial traffic; of limited overall value compared to road and rail) (2012)</content>
-         <content type="external-link">country comparison to the world: 36</content>
+         <content type="comparison-link">country comparison to the world: 36</content>
       </subsection>
       <subsection title="Merchant marine">
          <content type="strong">total:</content>
          <content>1,296</content>
          <content type="strong">by type:</content>
          <content>bulk carrier 36, container ship 7, general cargo 111, oil tanker 103, other 1,039 (2021)</content>
-         <content type="external-link">country comparison to the world: 20</content>
+         <content type="comparison-link">country comparison to the world: 20</content>
       </subsection>
       <subsection title="Ports and terminals">
          <content type="strong">major seaport(s):</content>
@@ -908,7 +922,7 @@
       </subsection>
       <subsection title="Military expenditures">
          <content>1.39% of GDP (2020 est.)1.18% of GDP (2019)1.23% of GDP (2018)1.2% of GDP (2017)1.18% of GDP (2016)</content>
-         <content type="external-link">country comparison to the world: 95</content>
+         <content type="comparison-link">country comparison to the world: 95</content>
       </subsection>
       <subsection title="Military and security service personnel strengths">
          <content>the Italian Armed Forces have approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 107,000 Carabinieri (2020)</content>
