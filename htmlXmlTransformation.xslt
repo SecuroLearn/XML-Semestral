@@ -43,7 +43,7 @@
 <!-- Basic text content -->
 <xsl:template match="div[@class='free-form-content__content wysiwyg-wrapper']/div/p/text()">
     <xsl:if test="string-length(normalize-space(.))!=0">
-        <xsl:element name="content-basic">
+        <xsl:element name="content">
             <xsl:value-of select="normalize-space(.)"/>
         </xsl:element>
     </xsl:if>
@@ -51,7 +51,7 @@
 
 <!-- Strong text content -->
 <xsl:template match="div[@class='free-form-content__content wysiwyg-wrapper']/div/p/strong">
-    <xsl:element name="content-strong">
+    <xsl:element name="content">
         <xsl:attribute name="type">strong</xsl:attribute>
         <xsl:value-of select="normalize-space(.)"/>
     </xsl:element>
@@ -60,7 +60,7 @@
 <!-- Nested paragraph -->
 <xsl:template match="div[@class='free-form-content__content wysiwyg-wrapper']/div/p/p">
     <xsl:if test="string-length(.)!=0">
-        <xsl:element name="content-nested">
+        <xsl:element name="content">
             <xsl:value-of select="normalize-space(.)"/>
         </xsl:element>
     </xsl:if>
@@ -68,8 +68,8 @@
 
 <!-- Comparison url link content -->
 <xsl:template match="div[@class='free-form-content__content wysiwyg-wrapper']/div/a">
-    <xsl:element name="content-comparison">
-        <xsl:attribute name="type">comparison</xsl:attribute>
+    <xsl:element name="content">
+        <xsl:attribute name="type">external-link</xsl:attribute>
         <xsl:value-of select="normalize-space(.)"/>
     </xsl:element>
 </xsl:template>

@@ -1,5 +1,6 @@
 PROJEKT - INSTRUKCE
 
+☑ DONE
 - Vytvořte XML dokumenty se všemi daty pro každou vybranou oblast (z
   https://www.cia.gov/the-world-factbook/). Podrobnosti k výběru oblastí
   jsou v souboru "BI-XML-PROJEKT-VÝBĚR-ZADÁNÍ*.txt". Pokud nezvládnete v
