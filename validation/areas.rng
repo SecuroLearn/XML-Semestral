@@ -1,0 +1,9 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0">
+
+	<include href="area-elements.rng"/>
+
+	<start>
+        <ref name="areas" />
+	</start>
+
+</grammar>

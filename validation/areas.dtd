@@ -1,0 +1,4 @@
+<!ENTITY % simpledtd SYSTEM "area.dtd">
+
+<!ELEMENT areas (area+)>
+%simpledtd;
