@@ -27,11 +27,11 @@
          <content>Europe</content>
       </subsection>
       <subsection title="Area">
-         <content type="strong">total:</content>
+         <content type="strong">total</content>
          <content>0 sq km</content>
-         <content type="strong">land:</content>
+         <content type="strong">land</content>
          <content>0.44 sq km</content>
-         <content type="strong">water:</content>
+         <content type="strong">water</content>
          <content>0 sq km</content>
          <content type="comparison-link">country comparison to the world: 257</content>
       </subsection>
@@ -39,9 +39,9 @@
          <content>about 0.7 times the size of the National Mall in Washington, DC</content>
       </subsection>
       <subsection title="Land boundaries">
-         <content type="strong">total:</content>
+         <content type="strong">total</content>
          <content>3.4 km</content>
-         <content type="strong">border countries (1):</content>
+         <content type="strong">border countries (1)</content>
          <content>Italy 3.4 km</content>
       </subsection>
       <subsection title="Coastline">
@@ -57,18 +57,18 @@
          <content>urban; low hill</content>
       </subsection>
       <subsection title="Elevation">
-         <content type="strong">highest point:</content>
+         <content type="strong">highest point</content>
          <content>Vatican Gardens (Vatican Hill) 78 m</content>
-         <content type="strong">lowest point:</content>
+         <content type="strong">lowest point</content>
          <content>Saint Peter's Square 19 m</content>
       </subsection>
       <subsection title="Natural resources">
          <content>none</content>
       </subsection>
       <subsection title="Land use">
-         <content type="strong">agricultural land:</content>
+         <content type="strong">agricultural land</content>
          <content>0% (2018 est.)</content>
-         <content type="strong">other:</content>
+         <content type="strong">other</content>
          <content>100% (2018 est.)</content>
       </subsection>
       <subsection title="Natural hazards">
@@ -84,9 +84,9 @@
          <content type="comparison-link">country comparison to the world: 235</content>
       </subsection>
       <subsection title="Nationality">
-         <content type="strong">noun:</content>
+         <content type="strong">noun</content>
          <content>none</content>
-         <content type="strong">adjective:</content>
+         <content type="strong">adjective</content>
          <content>none</content>
       </subsection>
       <subsection title="Ethnic groups">
@@ -94,7 +94,7 @@
       </subsection>
       <subsection title="Languages">
          <content>Italian, Latin, French, various other languages</content>
-         <content type="strong">major-language sample(s):</content>
+         <content type="strong">major-language sample(s)</content>
          <content>L'Almanacco dei fatti del mondo, l'indispensabile fonte per le informazioni di base. (Italian)The World Factbook, the indispensable source for basic information.</content>
          <content type="audio-link"
                   href="https://www.cia.gov/the-world-factbook/static/05f58c9a0cf3db6e155ac282ed504eda/Italian-3.mp3"/>
@@ -103,25 +103,25 @@
          <content>Roman Catholic</content>
       </subsection>
       <subsection title="Age structure">
-         <content type="strong">0-14 years:</content>
+         <content type="strong">0-14 years</content>
          <content>NA</content>
-         <content type="strong">15-24 years:</content>
+         <content type="strong">15-24 years</content>
          <content>NA</content>
-         <content type="strong">25-54 years:</content>
+         <content type="strong">25-54 years</content>
          <content>NA</content>
-         <content type="strong">55-64 years:</content>
+         <content type="strong">55-64 years</content>
          <content>NA</content>
-         <content type="strong">65 years and over:</content>
+         <content type="strong">65 years and over</content>
          <content>NA</content>
       </subsection>
       <subsection title="Dependency ratios">
-         <content type="strong">total dependency ratio:</content>
+         <content type="strong">total dependency ratio</content>
          <content>NA</content>
-         <content type="strong">youth dependency ratio:</content>
+         <content type="strong">youth dependency ratio</content>
          <content>NA</content>
-         <content type="strong">elderly dependency ratio:</content>
+         <content type="strong">elderly dependency ratio</content>
          <content>NA</content>
-         <content type="strong">potential support ratio:</content>
+         <content type="strong">potential support ratio</content>
          <content>NA</content>
       </subsection>
       <subsection title="Population growth rate">
@@ -135,9 +135,9 @@
          <content>NA</content>
       </subsection>
       <subsection title="Urbanization">
-         <content type="strong">urban population:</content>
+         <content type="strong">urban population</content>
          <content>100% of total population (2021)</content>
-         <content type="strong">rate of urbanization:</content>
+         <content type="strong">rate of urbanization</content>
          <content>0% annual rate of change (2020-25 est.)</content>
       </subsection>
       <subsection title="Major urban areas - population">
@@ -147,9 +147,9 @@
          <content>NA</content>
       </subsection>
       <subsection title="Drinking water source">
-         <content type="strong">improved:</content>
+         <content type="strong">improved</content>
          <content>total: 100% of population</content>
-         <content type="strong">unimproved:</content>
+         <content type="strong">unimproved</content>
          <content>total: 0% of population (2017 est.)</content>
       </subsection>
       <subsection title="Current Health Expenditure">
@@ -176,28 +176,28 @@
          <content>some air pollution from the surrounding city of Rome</content>
       </subsection>
       <subsection title="Environment - international agreements">
-         <content type="strong">party to:</content>
+         <content type="strong">party to</content>
          <content>Comprehensive Nuclear Test Ban, Ozone Layer Protection</content>
-         <content type="strong">signed, but not ratified:</content>
+         <content type="strong">signed, but not ratified</content>
          <content>Air Pollution, Environmental Modification</content>
       </subsection>
       <subsection title="Air pollutants">
-         <content type="strong">methane emissions:</content>
+         <content type="strong">methane emissions</content>
          <content>0 megatons (2020 est.)</content>
       </subsection>
       <subsection title="Climate">
          <content>temperate; mild, rainy winters (September to May) with hot, dry summers (May to September)</content>
       </subsection>
       <subsection title="Land use">
-         <content type="strong">agricultural land:</content>
+         <content type="strong">agricultural land</content>
          <content>0% (2018 est.)</content>
-         <content type="strong">other:</content>
+         <content type="strong">other</content>
          <content>100% (2018 est.)</content>
       </subsection>
       <subsection title="Urbanization">
-         <content type="strong">urban population:</content>
+         <content type="strong">urban population</content>
          <content>100% of total population (2021)</content>
-         <content type="strong">rate of urbanization:</content>
+         <content type="strong">rate of urbanization</content>
          <content>0% annual rate of change (2020-25 est.)</content>
       </subsection>
       <subsection title="Total renewable water resources">
@@ -206,28 +206,28 @@
    </section>
    <section title="Government">
       <subsection title="Country name">
-         <content type="strong">conventional long form:</content>
+         <content type="strong">conventional long form</content>
          <content>The Holy See (Vatican City State)</content>
-         <content type="strong">conventional short form:</content>
+         <content type="strong">conventional short form</content>
          <content>Holy See (Vatican City)</content>
-         <content type="strong">local long form:</content>
+         <content type="strong">local long form</content>
          <content>La Santa Sede (Stato della Citta del Vaticano)</content>
-         <content type="strong">local short form:</content>
+         <content type="strong">local short form</content>
          <content>Santa Sede (Citta del Vaticano)</content>
-         <content type="strong">etymology:</content>
+         <content type="strong">etymology</content>
          <content>"holy" comes from the Greek word "hera" meaning "sacred"; "see" comes from the Latin word "sedes" meaning "seat," and refers to the episcopal chair; the term "Vatican" derives from the hill Mons Vaticanus on which the Vatican is located and which comes from the Latin "vaticinari" (to prophesy), referring to the fortune tellers and soothsayers who frequented the area in Roman times</content>
       </subsection>
       <subsection title="Government type">
          <content>ecclesiastical elective monarchy; self-described as an "absolute monarchy"</content>
       </subsection>
       <subsection title="Capital">
-         <content type="strong">name:</content>
+         <content type="strong">name</content>
          <content>Vatican City</content>
-         <content type="strong">geographic coordinates:</content>
+         <content type="strong">geographic coordinates</content>
          <content>41 54 N, 12 27 E</content>
-         <content type="strong">time difference:</content>
+         <content type="strong">time difference</content>
          <content>UTC+1 (6 hours ahead of Washington, DC, during Standard Time)</content>
-         <content type="strong">daylight saving time:</content>
+         <content type="strong">daylight saving time</content>
          <content>+1hr, begins last Sunday in March; ends last Sunday in October</content>
       </subsection>
       <subsection title="Administrative divisions">
@@ -240,9 +240,9 @@
          <content>Election Day of Pope FRANCIS, 13 March (2013)</content>
       </subsection>
       <subsection title="Constitution">
-         <content type="strong">history:</content>
+         <content type="strong">history</content>
          <content>previous 1929, 1963; latest adopted 26 November 2000, effective 22 February 2001 (Fundamental Law of Vatican City State); note - in October 2013, Pope Francis instituted a 9-member Council of Cardinal Advisors to reform the administrative apparatus of the Holy See (Roman Curia) to include writing a new constitution; on 13 June 2018, Pope Francis approved the Council of Cardinals' first draft of the new constitution, Predicatae Evangelium, which will replace "Pastor Bonus, the current governing document of the Roman Curia</content>
-         <content type="strong">amendments:</content>
+         <content type="strong">amendments</content>
          <content>note - although the Fundamental Law of Vatican City State makes no mention of amendments, Article Four (drafting laws), states that this legislative responsibility resides with the Pontifical Commission for Vatican City State; draft legislation is submitted through the Secretariat of State and considered by the pope</content>
       </subsection>
       <subsection title="Legal system">
@@ -252,46 +252,46 @@
          <content>has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt</content>
       </subsection>
       <subsection title="Citizenship">
-         <content type="strong">citizenship by birth:</content>
+         <content type="strong">citizenship by birth</content>
          <content>no</content>
-         <content type="strong">citizenship by descent only:</content>
+         <content type="strong">citizenship by descent only</content>
          <content>no</content>
-         <content type="strong">dual citizenship recognized:</content>
+         <content type="strong">dual citizenship recognized</content>
          <content>no</content>
-         <content type="strong">residency requirement for naturalization:</content>
+         <content type="strong">residency requirement for naturalization</content>
          <content>not applicable</content>
-         <content type="strong">note:</content>
+         <content type="strong">note</content>
          <content>in the Holy See, citizenship is acquired by law, ex iure, or by adminstrative decision; in the first instance, citizenship is a function of holding office within the Holy See as in the case of cardinals resident in Vatican City or diplomats of the Holy See; in the second instance, citizenship may be requested in a limited set of circumstances for those who reside within Vatican City under papal authorization, as a function of their office or service, or as the spouses and children of current citizens; citizenship is lost once an individual no longer permanently resides in Vatican City, normally reverting to the citizenship previously held</content>
       </subsection>
       <subsection title="Suffrage">
          <content>election of the pope is limited to cardinals less than 80 years old</content>
       </subsection>
       <subsection title="Executive branch">
-         <content type="strong">chief of state:</content>
+         <content type="strong">chief of state</content>
          <content>Pope FRANCIS (since 13 March 2013)</content>
-         <content type="strong">head of government:</content>
+         <content type="strong">head of government</content>
          <content>Secretary of State Cardinal Pietro PAROLIN (since 15 October 2013); note - Head of Government of Vatican City is President Cardinal Giuseppe BERTELLO (since 1 October 2011)</content>
-         <content type="strong">cabinet:</content>
+         <content type="strong">cabinet</content>
          <content>Pontifical Commission for the State of Vatican City appointed by the pope</content>
-         <content type="strong">elections/appointments:</content>
+         <content type="strong">elections/appointments</content>
          <content>pope elected by the College of Cardinals, usually for life or until voluntary resignation; election last held on 13 March 2013 (next to be held after the death or resignation of the current pope); Secretary of State appointed by the pope</content>
-         <content type="strong">election results:</content>
+         <content type="strong">election results</content>
          <content>Jorge Mario BERGOGLIO, former Archbishop of Buenos Aires, elected Pope FRANCIS</content>
       </subsection>
       <subsection title="Legislative branch">
-         <content type="strong">description:</content>
+         <content type="strong">description</content>
          <content>unicameral Pontifical Commission for the State of Vatican City or Pontificia Commissione per lo Stato della Citta del Vaticano (7 seats; the president of the Governorate of Vatican City State and 6 cardinals appointed by the pope to serve 5-year terms)</content>
-         <content type="strong">elections:</content>
+         <content type="strong">elections</content>
          <content>last held on 11 July 2018</content>
-         <content type="strong">election results:</content>
+         <content type="strong">election results</content>
          <content>composition - men 7, women 0</content>
       </subsection>
       <subsection title="Judicial branch">
-         <content type="strong">highest courts:</content>
+         <content type="strong">highest courts</content>
          <content>Supreme Court or Supreme Tribunal of the Apostolic Signatura (consists of the cardinal prefect, who serves as ex-officio president of the court, and 2 other cardinals of the Prefect Signatura); note - judicial duties were established by the Motu Proprio, papal directive, of Pope PIUS XII on 1 May 1946; most Vatican City criminal matters are handled by the Republic of Italy courts</content>
-         <content type="strong">judge selection and term of office:</content>
+         <content type="strong">judge selection and term of office</content>
          <content>cardinal prefect appointed by the pope; the other 2 cardinals of the court appointed by the cardinal prefect on a yearly basis</content>
-         <content type="strong">subordinate courts:</content>
+         <content type="strong">subordinate courts</content>
          <content>Appellate Court of Vatican City; Tribunal of Vatican City</content>
       </subsection>
       <subsection title="Political parties and leaders">
@@ -301,30 +301,30 @@
          <content>CE (observer), IAEA, Interpol, IOM, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW, OSCE, Schengen Convention (de facto member), SICA (observer), UN (observer), UNCTAD, UNHCR, Union Latina (observer), UNWTO (observer), UPU, WIPO, WTO (observer)</content>
       </subsection>
       <subsection title="Diplomatic representation in the US">
-         <content type="strong">chief of mission:</content>
+         <content type="strong">chief of mission</content>
          <content>Apostolic Nuncio Archbishop Christophe PIERRE (since 27 June 2016)</content>
-         <content type="strong">chancery:</content>
+         <content type="strong">chancery</content>
          <content>3339 Massachusetts Avenue NW, Washington, DC 20008</content>
-         <content type="strong">telephone:</content>
+         <content type="strong">telephone</content>
          <content>[1] (202) 333-7121</content>
-         <content type="strong">FAX:</content>
+         <content type="strong">FAX</content>
          <content>[1] (202) 337-4036</content>
-         <content type="strong">email address and website:</content>
+         <content type="strong">email address and website</content>
          <content>nuntiususa@nuntiususa.org</content>
          <content type="external-link" href="http://www.nuntiususa.org/">http://www.nuntiususa.org/</content>
       </subsection>
       <subsection title="Diplomatic representation from the US">
-         <content type="strong">chief of mission:</content>
+         <content type="strong">chief of mission</content>
          <content>Ambassador (vacant); Charge d'Affaires Patrick CONNELL (since January 2021)</content>
-         <content type="strong">embassy:</content>
+         <content type="strong">embassy</content>
          <content>Via Sallustiana, 49, 00187 Rome</content>
-         <content type="strong">mailing address:</content>
+         <content type="strong">mailing address</content>
          <content>5660 Holy See Place, Washington DC 20521-5660</content>
-         <content type="strong">telephone:</content>
+         <content type="strong">telephone</content>
          <content>[39] (06) 4674-1</content>
-         <content type="strong">FAX:</content>
+         <content type="strong">FAX</content>
          <content>[39] (06) 4674-3411</content>
-         <content type="strong">email address and website:</content>
+         <content type="strong">email address and website</content>
          <content type="external-link" href="https://va.usembassy.gov/">https://va.usembassy.gov/</content>
       </subsection>
       <subsection title="Flag description">
@@ -334,11 +334,11 @@
          <content>crossed keys beneath a papal tiara; national colors: yellow, white</content>
       </subsection>
       <subsection title="National anthem">
-         <content type="strong">name:</content>
+         <content type="strong">name</content>
          <content>"Inno e Marcia Pontificale" (Hymn and Pontifical March); often called The Pontifical Hymn</content>
-         <content type="strong">lyrics/music:</content>
+         <content type="strong">lyrics/music</content>
          <content>Raffaello LAVAGNA/Charles-Francois GOUNOD</content>
-         <content type="strong">note:</content>
+         <content type="strong">note</content>
          <content>adopted 1950</content>
          <content type="audio-link"
                   href="https://www.cia.gov/the-world-factbook/static/7b11adc04a30d58e46b2673108a2c4c7/VT.mp3"/>
@@ -366,9 +366,9 @@
          <content>NA</content>
       </subsection>
       <subsection title="Budget">
-         <content type="strong">revenues:</content>
+         <content type="strong">revenues</content>
          <content>315 million (2013)</content>
-         <content type="strong">expenditures:</content>
+         <content type="strong">expenditures</content>
          <content>348 million (2013)</content>
       </subsection>
       <subsection title="Budget surplus (+) or deficit (-)">
@@ -386,31 +386,31 @@
    </section>
    <section title="Energy">
       <subsection title="Electricity access">
-         <content type="strong">electrification - total population:</content>
+         <content type="strong">electrification - total population</content>
          <content>100% (2020)</content>
       </subsection>
    </section>
    <section title="Communications">
       <subsection title="Telephones - fixed lines">
-         <content type="strong">total subscriptions:</content>
+         <content type="strong">total subscriptions</content>
          <content>NA</content>
-         <content type="strong">subscriptions per 100 inhabitants:</content>
+         <content type="strong">subscriptions per 100 inhabitants</content>
          <content>NA</content>
       </subsection>
       <subsection title="Telephones - mobile cellular">
-         <content type="strong">total subscriptions:</content>
+         <content type="strong">total subscriptions</content>
          <content>NA</content>
-         <content type="strong">subscriptions per 100 inhabitants:</content>
+         <content type="strong">subscriptions per 100 inhabitants</content>
          <content>NA</content>
       </subsection>
       <subsection title="Telecommunication systems">
-         <content type="strong">general assessment:</content>
+         <content type="strong">general assessment</content>
          <content>automatic digital exchange (2018)</content>
-         <content type="strong">domestic:</content>
+         <content type="strong">domestic</content>
          <content>connected via fiber-optic cable to Telecom Italia network (2018)</content>
-         <content type="strong">international:</content>
+         <content type="strong">international</content>
          <content>country code - 39; uses Italian system</content>
-         <content type="strong">note:</content>
+         <content type="strong">note</content>
          <content>the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated</content>
       </subsection>
       <subsection title="Broadcast media">

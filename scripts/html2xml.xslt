@@ -74,7 +74,7 @@
 <xsl:template match="div[@class='free-form-content__content wysiwyg-wrapper']/div/p/strong">
     <xsl:element name="content">
         <xsl:attribute name="type">strong</xsl:attribute>
-        <xsl:value-of select="normalize-space(.)"/>
+        <xsl:value-of select="normalize-space(translate(., ':', ''))"/>
     </xsl:element>
 </xsl:template>
 
