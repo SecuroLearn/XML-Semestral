@@ -1,17 +1,9 @@
-<!ENTITY % simple-rng SYSTEM "area.rng" >
-
 <grammar xmlns="http://relaxng.org/ns/structure/1.0">
-	<start datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+
+	<include href="area-elements.rng"/>
+
+	<start>
         <ref name="areas" />
 	</start>
 
-    <define name="areas">
-        <element name="areas">
-			<oneOrMore>
-				<ref name="area"/>
-			</oneOrMore>
-		</element>
-    </define>
 </grammar>
-
-%area.rng;

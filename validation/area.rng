@@ -1,70 +1,9 @@
 <grammar xmlns="http://relaxng.org/ns/structure/1.0">
-	<start datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+
+    <include href="area-elements.rng"/>
+
+	<start>
         <ref name="area" />
 	</start>
 
-    <define name="area">
-        <element name="area">
-            <attribute name="name">
-                <text/>
-            </attribute>
-			<oneOrMore>
-				<ref name="section"/>
-			</oneOrMore>
-		</element>
-    </define>
-
-    <define name="section">
-        <element name="section">
-            <attribute name="title">
-                <text/>
-            </attribute>
-            <choice>
-                <oneOrMore>
-                    <ref name="subsection"/>
-                </oneOrMore>
-                <oneOrMore>
-                    <ref name="content"/>
-                </oneOrMore>
-            </choice>
-        </element>
-    </define>
-
-    <define name="subsection">
-		<element name="subsection">
-            <attribute name="title">
-                <text/>
-            </attribute>
-            <oneOrMore>
-                <ref name="content"/>
-            </oneOrMore>
-        </element>
-	</define>
-
-    <define name="content">
-		<element name="content">
-            <optional>
-                <attribute name="type">
-                    <choice>
-                        <value>strong</value>
-                        <value>image-link</value>
-                        <value>external-link</value>
-                        <value>comparison-link</value>
-                        <value>audio-link</value>
-                    </choice>
-                </attribute>
-            </optional>
-            <optional>
-                <attribute name="description">
-                    <text/>
-                </attribute>
-            </optional>
-            <optional>
-                <attribute name="href">
-                    <text/>
-                </attribute>
-            </optional>
-            <text/>
-        </element>
-	</define>
 </grammar>

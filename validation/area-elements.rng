@@ -1,0 +1,97 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0">
+
+    <define name="areas">
+        <element name="areas">
+			<oneOrMore>
+				<ref name="area"/>
+			</oneOrMore>
+		</element>
+    </define>
+
+    <define name="area">
+        <element name="area">
+            <attribute name="name">
+                <text/>
+            </attribute>
+			<oneOrMore>
+				<ref name="section"/>
+			</oneOrMore>
+		</element>
+    </define>
+
+    <define name="section">
+        <element name="section">
+            <attribute name="title">
+                <text/>
+            </attribute>
+            <choice>
+                <oneOrMore>
+                    <ref name="subsection"/>
+                </oneOrMore>
+                <oneOrMore>
+                    <ref name="content"/>
+                </oneOrMore>
+            </choice>
+        </element>
+    </define>
+
+    <define name="subsection">
+		<element name="subsection">
+            <attribute name="title">
+                <text/>
+            </attribute>
+            <oneOrMore>
+                <ref name="content"/>
+            </oneOrMore>
+        </element>
+	</define>
+
+    <define name="content">
+        <choice>
+
+            <element name="content">
+                <optional>
+                    <attribute name="type">
+                        <choice>
+                            <value>strong</value>
+                            <value>comparison-link</value>
+                        </choice>
+                    </attribute>
+                </optional>
+                <text/>
+            </element>
+
+            <element name="content">
+                <attribute name="type">
+                    <choice>
+                        <value>external-link</value>
+                        <value>audio-link</value>
+                    </choice>
+                </attribute>
+                <ref name="href"/>
+                <text/>
+            </element>
+
+            <element name="content">
+                <attribute name="type">
+                    <value>image-link</value>
+                </attribute>
+                <attribute name="description">
+                    <text/>
+                </attribute>
+                <ref name="href"/>
+                <text/>
+            </element>
+
+        </choice>
+	</define>
+
+    <define name="href">
+        <attribute name="href">
+            <data type="anyURI" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+                <param name="pattern">https?://.*</param>
+            </data>
+        </attribute>
+    </define>
+
+</grammar>  
