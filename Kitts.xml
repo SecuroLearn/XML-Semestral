@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<area name="Saint Kitts and Nevis">
+   <section title="Introduction">
+      <subsection title="Background"/>
+   </section>
+   <section title="Geography">
+      <subsection title="Location"/>
+      <subsection title="Geographic&#xA;                            coordinates"/>
+      <subsection title="Map references"/>
+      <subsection title="Area">
+         <data type="total: "/>
+         <data type="land: "/>
+         <data type="water: "/>
+      </subsection>
+      <subsection title="Area - comparative"/>
+      <subsection title="Land boundaries">
+         <data type="total: "/>
+      </subsection>
+      <subsection title="Coastline"/>
+      <subsection title="Maritime claims">
+         <data type="territorial sea: "/>
+         <data type="contiguous zone: "/>
+         <data type="exclusive economic zone: "/>
+         <data type="continental shelf:&#xA;                          "/>
+      </subsection>
+      <subsection title="Climate"/>
+      <subsection title="Terrain"/>
+      <subsection title="Elevation">
+         <data type="highest point: "/>
+         <data type="lowest point:&#xA;                          "/>
+      </subsection>
+      <subsection title="Natural resources"/>
+      <subsection title="Land use">
+         <data type="agricultural land: "/>
+         <data type="forest: "/>
+         <data type="other: "/>
+      </subsection>
+      <subsection title="Irrigated land"/>
+      <subsection title="Population&#xA;                            distribution"/>
+      <subsection title="Natural hazards"/>
+      <subsection title="Geography - note"/>
+   </section>
+   <section title="People and Society">
+      <subsection title="Population"/>
+      <subsection title="Nationality">
+         <data type="noun: "/>
+         <data type="adjective:&#xA;                          "/>
+      </subsection>
+      <subsection title="Ethnic groups"/>
+      <subsection title="Languages"/>
+      <subsection title="Religions"/>
+      <subsection title="Age structure">
+         <data type="0-14 years: "/>
+         <data type="15-24 years:&#xA;                          "/>
+         <data type="25-54 years: "/>
+         <data type="55-64 years: "/>
+         <data type="65 years and over: "/>
+      </subsection>
+      <subsection title="Dependency ratios">
+         <data type="total dependency ratio: "/>
+         <data type="youth dependency ratio:&#xA;                          "/>
+         <data type="elderly dependency ratio: "/>
+         <data type="potential&#xA;                            support ratio: "/>
+      </subsection>
+      <subsection title="Median age">
+         <data type="total: "/>
+         <data type="male: "/>
+         <data type="female: "/>
+      </subsection>
+      <subsection title="Population growth&#xA;                            rate"/>
+      <subsection title="Birth rate"/>
+      <subsection title="Death rate"/>
+      <subsection title="Net migration rate"/>
+      <subsection title="Population&#xA;                            distribution"/>
+      <subsection title="Urbanization">
+         <data type="urban population: "/>
+         <data type="rate of&#xA;                            urbanization: "/>
+      </subsection>
+      <subsection title="Major urban&#xA;                            areas - population"/>
+      <subsection title="Sex ratio">
+         <data type="at birth: "/>
+         <data type="0-14 years: "/>
+         <data type="15-24 years: "/>
+         <data type="25-54&#xA;                            years: "/>
+         <data type="55-64 years: "/>
+         <data type="65 years and over: "/>
+         <data type="total population: "/>
+      </subsection>
+      <subsection title="Infant mortality&#xA;                            rate">
+         <data type="total: "/>
+         <data type="male: "/>
+         <data type="female: "/>
+      </subsection>
+      <subsection title="Life expectancy at&#xA;                            birth">
+         <data type="total population: "/>
+         <data type="male: "/>
+         <data type="female: "/>
+      </subsection>
+      <subsection title="Total fertility&#xA;                            rate"/>
+      <subsection title="Contraceptive&#xA;                            prevalence rate"/>
+      <subsection title="Drinking water&#xA;                            source">
+         <data type="improved: "/>
+         <data type="unimproved: "/>
+      </subsection>
+      <subsection title="Current Health&#xA;                            Expenditure"/>
+      <subsection title="Physicians density"/>
+      <subsection title="Hospital bed&#xA;                            density"/>
+      <subsection title="Sanitation&#xA;                            facility access">
+         <data type="improved: "/>
+         <data type="unimproved: "/>
+      </subsection>
+      <subsection title="HIV/AIDS -&#xA;                            adult prevalence rate"/>
+      <subsection title="HIV/AIDS - people&#xA;                            living with HIV/AIDS"/>
+      <subsection title="HIV/AIDS - deaths"/>
+      <subsection title="Obesity -&#xA;                            adult prevalence rate"/>
+      <subsection title="Children&#xA;                            under the age of 5 years underweight"/>
+      <subsection title="Education&#xA;                            expenditures"/>
+      <subsection title="School&#xA;                            life expectancy (primary to tertiary education)">
+         <data type="total: "/>
+         <data type="male: "/>
+         <data type="female: "/>
+      </subsection>
+   </section>
+   <section title="Environment">
+      <subsection title="Environment -&#xA;                            current issues"/>
+      <subsection title="Environment -&#xA;                            international agreements">
+         <data type="party to: "/>
+         <data type="signed, but not ratified: "/>
+      </subsection>
+      <subsection title="Air pollutants">
+         <data type="particulate matter emissions: "/>
+         <data type="carbon dioxide emissions: "/>
+         <data type="methane emissions: "/>
+      </subsection>
+      <subsection title="Climate"/>
+      <subsection title="Land use">
+         <data type="agricultural land: "/>
+         <data type="forest: "/>
+         <data type="other: "/>
+      </subsection>
+      <subsection title="Urbanization">
+         <data type="urban population: "/>
+         <data type="rate of&#xA;                            urbanization: "/>
+      </subsection>
+      <subsection title="Revenue from&#xA;                            forest resources">
+         <data type="forest revenues: "/>
+      </subsection>
+      <subsection title="Revenue from coal">
+         <data type="coal revenues: "/>
+      </subsection>
+      <subsection title="Waste and recycling">
+         <data type="municipal solid waste generated annually: "/>
+      </subsection>
+      <subsection title="Total water&#xA;                            withdrawal">
+         <data type="municipal: "/>
+         <data type="industrial:&#xA;                          "/>
+         <data type="agricultural: "/>
+      </subsection>
+      <subsection title="Total&#xA;                            renewable water resources"/>
+   </section>
+   <section title="Government">
+      <subsection title="Country name">
+         <data type="conventional long form: "/>
+         <data type="conventional short form: "/>
+         <data type="former: "/>
+         <data type="etymology: "/>
+         <data type="note:"/>
+      </subsection>
+      <subsection title="Government type"/>
+      <subsection title="Capital">
+         <data type="name: "/>
+         <data type="geographic coordinates: "/>
+         <data type="time difference: "/>
+         <data type="etymology: "/>
+      </subsection>
+      <subsection title="Administrative&#xA;                            divisions"/>
+      <subsection title="Independence"/>
+      <subsection title="National holiday"/>
+      <subsection title="Constitution">
+         <data type="history: "/>
+         <data type="amendments: "/>
+      </subsection>
+      <subsection title="Legal system"/>
+      <subsection title="International&#xA;                            law organization participation"/>
+      <subsection title="Citizenship">
+         <data type="citizenship by birth: "/>
+         <data type="citizenship by descent only:&#xA;                          "/>
+         <data type="dual citizenship recognized: "/>
+         <data type="residency&#xA;                            requirement for naturalization: "/>
+      </subsection>
+      <subsection title="Suffrage"/>
+      <subsection title="Executive branch">
+         <data type="chief of state: "/>
+         <data type="head of government:&#xA;                          "/>
+         <data type="cabinet: "/>
+         <data type="elections/appointments:&#xA;                          "/>
+      </subsection>
+      <subsection title="Legislative branch">
+         <data type="description: "/>
+         <data type="elections: "/>
+         <data type="election results: "/>
+      </subsection>
+      <subsection title="Judicial branch">
+         <data type="highest courts: "/>
+         <data type="judge selection and term of office: "/>
+         <data type="subordinate courts: "/>
+      </subsection>
+      <subsection title="Political&#xA;                            parties and leaders"/>
+      <subsection title="International&#xA;                            organization participation"/>
+      <subsection title="Diplomatic&#xA;                            representation in the US">
+         <data type="chief of mission: "/>
+         <data type="chancery: "/>
+         <data type="telephone: "/>
+         <data type="FAX: "/>
+         <data type="consulate(s) general: "/>
+      </subsection>
+      <subsection title="Diplomatic&#xA;                            representation from the US">
+         <data type="embassy: "/>
+      </subsection>
+      <subsection title="Flag description"/>
+      <subsection title="National symbol(s)"/>
+      <subsection title="National anthem">
+         <data type="name: "/>
+         <data type="lyrics/music: "/>
+         <data type="note:"/>
+      </subsection>
+   </section>
+   <section title="Economy">
+      <subsection title="Economic overview"/>
+      <subsection title="Real GDP&#xA;                            (purchasing power parity)">
+         <data type="note:"/>
+      </subsection>
+      <subsection title="Real GDP growth&#xA;                            rate"/>
+      <subsection title="Real GDP per capita">
+         <data type="note:"/>
+      </subsection>
+      <subsection title="GDP (official&#xA;                            exchange rate)"/>
+      <subsection title="Inflation&#xA;                            rate (consumer prices)"/>
+      <subsection title="GDP -&#xA;                            composition, by sector of origin">
+         <data type="agriculture: "/>
+         <data type="industry: "/>
+         <data type="services: "/>
+      </subsection>
+      <subsection title="GDP -&#xA;                            composition, by end use">
+         <data type="household consumption: "/>
+         <data type="government&#xA;                            consumption: "/>
+         <data type="investment in fixed capital:&#xA;                          "/>
+         <data type="investment in inventories: "/>
+         <data type="exports of goods and services: "/>
+         <data type="imports of goods and services: "/>
+      </subsection>
+      <subsection title="Agricultural&#xA;                            products"/>
+      <subsection title="Industries"/>
+      <subsection title="Industrial production&#xA;                            growth rate"/>
+      <subsection title="Labor force"/>
+      <subsection title="Unemployment rate"/>
+      <subsection title="Population&#xA;                            below poverty line"/>
+      <subsection title="Household&#xA;                            income or consumption by percentage share">
+         <data type="lowest 10%: "/>
+         <data type="highest 10%: "/>
+      </subsection>
+      <subsection title="Budget">
+         <data type="revenues: "/>
+         <data type="expenditures:&#xA;                          "/>
+      </subsection>
+      <subsection title="Budget surplus&#xA;                            (+) or deficit (-)"/>
+      <subsection title="Public debt"/>
+      <subsection title="Taxes and other&#xA;                            revenues"/>
+      <subsection title="Fiscal year"/>
+      <subsection title="Current account&#xA;                            balance"/>
+      <subsection title="Exports"/>
+      <subsection title="Exports - partners"/>
+      <subsection title="Exports -&#xA;                            commodities"/>
+      <subsection title="Imports"/>
+      <subsection title="Imports - partners"/>
+      <subsection title="Imports -&#xA;                            commodities"/>
+      <subsection title="Reserves of foreign&#xA;                            exchange and gold"/>
+      <subsection title="Debt - external"/>
+      <subsection title="Exchange rates"/>
+   </section>
+   <section title="Energy">
+      <subsection title="Electricity access">
+         <data type="electrification - total population: "/>
+      </subsection>
+      <subsection title="Electricity -&#xA;                            production"/>
+      <subsection title="Electricity -&#xA;                            consumption"/>
+      <subsection title="Electricity -&#xA;                            exports"/>
+      <subsection title="Electricity -&#xA;                            imports"/>
+      <subsection title="Electricity -&#xA;                            installed generating capacity"/>
+      <subsection title="Electricity -&#xA;                            from fossil fuels"/>
+      <subsection title="Electricity&#xA;                            - from nuclear fuels"/>
+      <subsection title="Electricity - from&#xA;                            hydroelectric plants"/>
+      <subsection title="Electricity - from&#xA;                            other renewable sources"/>
+      <subsection title="Crude oil -&#xA;                            production"/>
+      <subsection title="Crude oil - exports"/>
+      <subsection title="Crude oil - imports"/>
+      <subsection title="Crude oil -&#xA;                            proved reserves"/>
+      <subsection title="Refined petroleum&#xA;                            products - production"/>
+      <subsection title="Refined petroleum&#xA;                            products - consumption"/>
+      <subsection title="Refined&#xA;                            petroleum products - exports"/>
+      <subsection title="Refined&#xA;                            petroleum products - imports"/>
+      <subsection title="Natural gas -&#xA;                            production"/>
+      <subsection title="Natural gas -&#xA;                            consumption"/>
+      <subsection title="Natural gas -&#xA;                            exports"/>
+      <subsection title="Natural gas -&#xA;                            imports"/>
+      <subsection title="Natural gas -&#xA;                            proved reserves"/>
+   </section>
+   <section title="Communications">
+      <subsection title="Telephones - fixed&#xA;                            lines">
+         <data type="total subscriptions: "/>
+         <data type="subscriptions per 100&#xA;                            inhabitants: "/>
+      </subsection>
+      <subsection title="Telephones -&#xA;                            mobile cellular">
+         <data type="total subscriptions: "/>
+         <data type="subscriptions per 100&#xA;                            inhabitants: "/>
+      </subsection>
+      <subsection title="Telecommunication&#xA;                            systems">
+         <data type="general assessment: "/>
+         <data type="domestic: "/>
+         <data type="international: "/>
+         <data type="note:"/>
+      </subsection>
+      <subsection title="Broadcast media"/>
+      <subsection title="Internet country&#xA;                            code"/>
+      <subsection title="Internet users">
+         <data type="total: "/>
+         <data type="percent of population: "/>
+      </subsection>
+      <subsection title="Broadband -&#xA;                            fixed subscriptions">
+         <data type="total: "/>
+         <data type="subscriptions per 100 inhabitants:&#xA;                          "/>
+      </subsection>
+   </section>
+   <section title="Transportation">
+      <subsection title="Civil&#xA;                            aircraft registration country code prefix"/>
+      <subsection title="Airports">
+         <data type="total: "/>
+      </subsection>
+      <subsection title="Airports - with&#xA;                            paved runways">
+         <data type="total: "/>
+         <data type="1,524 to 2,437 m: "/>
+         <data type="914 to&#xA;                            1,523 m: "/>
+      </subsection>
+      <subsection title="Railways">
+         <data type="total: "/>
+         <data type="narrow gauge: "/>
+      </subsection>
+      <subsection title="Roadways">
+         <data type="total: "/>
+         <data type="paved: "/>
+         <data type="unpaved: "/>
+      </subsection>
+      <subsection title="Merchant marine">
+         <data type="total: "/>
+         <data type="by type: "/>
+      </subsection>
+      <subsection title="Ports and terminals">
+         <data type="major seaport(s): "/>
+      </subsection>
+   </section>
+   <section title="Military and Security">
+      <subsection title="Military and&#xA;                            security forces"/>
+      <subsection title="Military&#xA;                            and security service personnel strengths"/>
+      <subsection title="Military&#xA;                            equipment inventories and acquisitions"/>
+      <subsection title="Military service age&#xA;                            and obligation"/>
+      <subsection title="Military - note"/>
+   </section>
+   <section title="Transnational Issues">
+      <subsection title="Disputes -&#xA;                            international"/>
+      <subsection title="Illicit drugs"/>
+   </section>
+</area>
