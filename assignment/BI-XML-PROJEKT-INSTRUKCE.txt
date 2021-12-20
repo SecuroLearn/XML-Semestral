@@ -9,6 +9,7 @@ PROJEKT - INSTRUKCE
   hlavních sekcí (tj. Introduction, Geography, atd.). Dále spojte XML
   dokumenty pro jednotlivé oblasti do jediného dokumentu pomocí DTD.
 
+☑ DONE
 - Vytvořte schema pomocí DTD i RelaxNG pro validaci struktury XML
   dokumentů. V RelaxNG schema se pokuste využít alespoň některé možnosti
   pokročilejší validace co jazyk nabízí navíc oproti DTD.

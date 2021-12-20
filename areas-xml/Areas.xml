@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE areas SYSTEM "../areas.dtd"
+[
+    <!ENTITY Greenland SYSTEM "Greenland.xml" >
+    <!ENTITY Iceland SYSTEM "Iceland.xml" >
+    <!ENTITY Kitts SYSTEM "Kitts.xml" >
+    <!ENTITY Vincent SYSTEM "Vincent.xml" >
+    <!ENTITY Italy SYSTEM "Italy.xml" >
+    <!ENTITY VaticanCity SYSTEM "VaticanCity.xml" >
+]> 
+
+<areas>
+    &Greenland;
+    &Iceland;
+    &Kitts;
+    &Vincent;
+    &Italy;
+    &VaticanCity;
+</areas>
