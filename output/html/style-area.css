@@ -1,11 +1,112 @@
-body {
-    background-color: lightblue;
+body
+{
+    padding: 20px;
+    background-color: rgb(43, 43, 43);
+    color: white;
+    font-family: Verdana, Tahoma, sans-serif;
 }
 
-h1 {
-    color: red;
+h1
+{
+    margin-top: 0px;
+    font-size: 40px;
 }
 
-h2 {
-    color: green;
+h2
+{
+    margin-top: 30px;
+    font-size: 28px;
+}
+
+h3
+{
+    margin-top: 28px;
+    margin-bottom: 8px;
+    font-size: 22px;
+    font-weight: bold;
+    color: navajowhite;
+}
+
+h4
+{
+    margin-top: 14px;
+    margin-bottom: 0px;
+    font-size: 18px;
+    font-weight: normal;
+    color: goldenrod;
+}
+
+p
+{
+    margin-top: 4px;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+
+li
+{
+    line-height: 160%;
+}
+
+a
+{
+    color : royalblue;
+    font-size: 14px;
+}
+
+a:hover
+{
+    color : rgb(45, 76, 168);
+}
+
+a.back-button
+{
+    margin: 50px 0px 50px 0px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: royalblue;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+a.back-button:hover
+{
+    background-color: rgb(45, 76, 168);
+}
+
+table.images
+{
+    margin-top: 30px;
+}
+
+table.images tr td
+{
+    padding-right: 30px;
+}
+
+table.images tr td p
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+table.images tr td img
+{
+    height: 200px;
+}
+
+hr
+{
+    margin-top: 25px;
+    height: 3px;
+    border: none;
+    background-color: gray;
+}
+
+p.comparison
+{
+    margin-top: 10px;
+    color: gray;
 }

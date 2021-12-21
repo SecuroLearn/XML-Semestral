@@ -16,7 +16,8 @@
                 </xsl:element>
             </xsl:element>
             <xsl:element name="body">
-                <xsl:element name="h1">Areas</xsl:element>
+                <xsl:element name="h1">Facts about six countries</xsl:element>
+                <xsl:element name="h2">from the CIA's World Factbook</xsl:element>
                 <xsl:element name="ul">
                     <xsl:apply-templates select="area" mode="link"/>
                 </xsl:element>
@@ -35,6 +36,7 @@
                 <xsl:value-of select="concat(translate(@name, ' ()', ''), '.html' )"/>
             </xsl:attribute>
             <xsl:value-of select="@name"/>
+            <xsl:text>&#8239;&#8239;&#8239;&#10095;</xsl:text>
         </xsl:element>
     </xsl:element>
 </xsl:template>
@@ -54,11 +56,17 @@
                     <xsl:value-of select="@name"/>
                 </xsl:element>
                 <xsl:element name="a">
+                    <xsl:attribute name="class">back-button</xsl:attribute>
                     <xsl:attribute name="href">index.html</xsl:attribute>
-                    <xsl:text>Back to main page</xsl:text>
+                    <xsl:text>&#10094;&#8239;&#8239;&#8239;Back to main page</xsl:text>
                 </xsl:element>
                 <xsl:element name="div">
-                    <xsl:apply-templates select="./section[@title='Images']/content[@type='image-link']"/>
+                    <xsl:element name="table">
+                        <xsl:attribute name="class">images</xsl:attribute>
+                        <xsl:element name="tr">
+                            <xsl:apply-templates select="./section[@title='Images']/content[@type='image-link']"/>
+                        </xsl:element>
+                    </xsl:element>
                 </xsl:element>
                 <xsl:apply-templates select="./section[not(@title='Images')]"/>
             </xsl:element>
@@ -68,9 +76,11 @@
 
 <!-- Image with description -->
 <xsl:template match="content[@type='image-link']">
-    <xsl:element name="div">
+    <xsl:element name="td">
         <xsl:element name="p">
-            <xsl:value-of select="@description"/>
+            <xsl:element name="i">
+                <xsl:value-of select="@description"/>
+            </xsl:element>
         </xsl:element>
         <xsl:element name="img">
             <xsl:attribute name="src">
@@ -82,6 +92,7 @@
 
 <!-- Section title and contents -->
 <xsl:template match="section[not(@title='Images')]">
+    <xsl:element name="hr"/>
     <xsl:element name="h2">
         <xsl:value-of select="@title"/>
     </xsl:element>
@@ -115,8 +126,9 @@
 <!-- Comparison content -->
 <xsl:template match="content[@type='comparison-link']">
     <xsl:element name="p">
+        <xsl:attribute name="class">comparison</xsl:attribute>
         <xsl:element name="i">
-            <xsl:value-of select="."/>
+            <xsl:value-of select="."/><xsl:text>.</xsl:text>
         </xsl:element>
     </xsl:element>
 </xsl:template>
