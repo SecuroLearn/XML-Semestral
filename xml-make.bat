@@ -20,32 +20,34 @@ setlocal EnableDelayedExpansion
 :: =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 :: =-=-=-=-=-=-=- PERSONALIZE SCRIPT HERE -=-=-=-=-=-=-=
 :: =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-:: Set Saxon.jar location
+:: Set Saxon.jar location here:
 set SAXON=..\Saxon\saxon-he-10.5.jar
 
-:: Set XmlLint.exe location
+:: Set XmlLint.exe location here:
 set XMLLINT=..\xmllint\xmllint.exe
 
-:: Set Fop location
+:: Set Fop location here:
 set FOP=..\fop-2.6\fop\fop
 
-:: Set name of file containing XML used for generating combined XML output
+:: Set name of file containing XML used for generating combined XML output here:
 set SHORT-AREAS=AreasMin.xml
 
-:: Set name of file containing generated combined XML output
+:: Set name of file containing generated combined XML output here:
 set AREAS=Areas.xml
 
-:: Set name of file containing XSLT used for expanding generated combined XML output
+:: Set name of file containing XSLT used for expanding generated combined XML output here:
 set SHORT-AREAS-SCRIPT=expandAreas.xslt
 
-:: Set name of file containing XSLT used for generating internal XML from original HTML
+:: Set name of file containing XSLT used for generating internal XML from original HTML here:
 set HTML-TO-XML-SCRIPT=html2xml.xslt
 
-:: Set name of file containing XSLT used for generating HTML output from internal XML
+:: Set name of file containing XSLT used for generating HTML output from internal XML here:
 set XML-TO-HTML-SCRIPT=xml2html.xslt
 
-:: Set name of file containing XSLT used for generating PDF output from internal XML
+:: Set name of file containing XSLT used for generating PDF output from internal XML here:
 set XML-TO-PDF-SCRIPT=xml2pdf.xslt
+:: =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+:: =-=-=-=-=-=-=-= END OF PERSONALIZATION -=-=-=-=-=-=-=
 :: =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 :: Generating useful vars

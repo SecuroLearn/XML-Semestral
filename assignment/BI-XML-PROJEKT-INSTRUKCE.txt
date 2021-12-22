@@ -14,13 +14,16 @@ PROJEKT - INSTRUKCE
   dokumentů. V RelaxNG schema se pokuste využít alespoň některé možnosti
   pokročilejší validace co jazyk nabízí navíc oproti DTD.
 
+☑ DONE
 - Pomocí XSLT vygenerujte (X)HTML výstupy (tj. souhrný index obsahující
   odkazy na jednotlivé oblasti a samostatnou stránku pro každou oblast
   obsahující detailní informace).
 
+☑ DONE
 - Pomocí XSL-FO vygenerujte PDF výstup (tj. dokument obsahující odkazy na
   jednotlivé oblasti a detailní informace o každé oblasti).
 
+☑ DONE
 - Buď vygenerujte ePub výstup (tj. ebook připravený k načtení v software
   podporujícím ePub formát), nebo do (X)HTML a PDF výstupů přidejte obrázky
   (stačí vlajky nebo mapy a podobně), navigaci pro sekce s detailními
@@ -29,6 +32,7 @@ PROJEKT - INSTRUKCE
   (použijte CSS a možnosti formátování v XSL-FO včetně číslování stran a
   přidání záhlaví či zápatí).
 
+☑ DONE
 - Schema (DTD i RelaxNG), stylesheety (XSLT i XSL-FO) a další části
   projektu tvořte adekvátně obecné aby byla zajištěna funkčnost pro všechny
   zadané oblasti. Všechny XML dokumenty musí být "well-formed" + "valid". I
@@ -36,9 +40,11 @@ PROJEKT - INSTRUKCE
   (tj. alespoň by mělo jít rozlišit nadpisy a odstavce, případně i další
   prvky jako seznamy, odkazy, atd.).
 
+☑ DONE
 - Projekt tvořte pomocí veřejně přístupného GIT repozitáře a finální
   soubory projektu (bez použitého software) zabalte do ZIP nebo TAR archivu
   a pošlete na email vyučujícího spolu s odkazem na GIT repozitář.
 
+☑ DONE
 - Do archivu i repozitáře také přidejte informace o projektu dle zadání v
   souboru "BI-XML-PROJEKT-PREZENTACE*.txt".
