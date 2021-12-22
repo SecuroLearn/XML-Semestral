@@ -8,15 +8,26 @@
 
         <fo:layout-master-set>
 
-            <fo:simple-page-master master-name="A4-portrait" page-height="29.7cm" page-width="21.0cm" margin="1cm 2cm 1cm 2cm">
+            <fo:simple-page-master master-name="Cover" page-height="29.7cm" page-width="21.0cm" margin="1cm 2cm 1cm 2cm">
+                <fo:region-body margin-top="2cm" margin-bottom="1.5cm"/>
+            </fo:simple-page-master>
+
+            <fo:simple-page-master master-name="Pages" page-height="29.7cm" page-width="21.0cm" margin="1cm 2cm 1cm 2cm">
                 <fo:region-body margin-top="2cm" margin-bottom="1.5cm"/>
                 <fo:region-before extent="2cm" display-align="before"/>
                 <fo:region-after extent="1.5cm" display-align="after"/>
             </fo:simple-page-master>
 
+            <fo:page-sequence-master master-name="PageSequence">
+                <fo:repeatable-page-master-alternatives>
+                    <fo:conditional-page-master-reference page-position="first" master-reference="Cover"/>
+                    <fo:conditional-page-master-reference page-position="rest" master-reference="Pages"/>
+                </fo:repeatable-page-master-alternatives>
+            </fo:page-sequence-master>
+
         </fo:layout-master-set>
 
-        <fo:page-sequence master-reference="A4-portrait">
+        <fo:page-sequence master-reference="PageSequence">
 
             <fo:static-content flow-name="xsl-region-before">
                 <fo:block text-align="center" color="gray">
