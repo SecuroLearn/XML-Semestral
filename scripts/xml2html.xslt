@@ -68,7 +68,14 @@
                         </xsl:element>
                     </xsl:element>
                 </xsl:element>
-                <xsl:apply-templates select="./section[not(@title='Images')]"/>
+                <xsl:element name="hr"/>
+                <xsl:element name="h2">
+                    Table of contents
+                </xsl:element>
+                <xsl:element name="ul">
+                    <xsl:apply-templates select="section" mode="link"/>
+                </xsl:element>
+                <xsl:apply-templates select="./section[not(@title='Images')]" mode="detail"/>
             </xsl:element>
         </xsl:element>
     </xsl:result-document>
@@ -90,9 +97,28 @@
     </xsl:element>
 </xsl:template>
 
+<!-- Link to section -->
+<xsl:template match="section[not(@title='Images')]" mode="link">
+    <xsl:element name="li">
+        <xsl:element name="a">
+            <xsl:attribute name="class">button-section</xsl:attribute>
+            <xsl:attribute name="href">
+                <xsl:text>#</xsl:text>
+                <xsl:value-of select="generate-id(.)"/>
+            </xsl:attribute>
+            <xsl:value-of select="translate(@title, ' ', '&#160;')"/>
+            <xsl:text>&#8239;&#8239;&#8239;&#10095;</xsl:text>
+        </xsl:element>
+    </xsl:element>
+</xsl:template>
+
 <!-- Section title and contents -->
-<xsl:template match="section[not(@title='Images')]">
-    <xsl:element name="hr"/>
+<xsl:template match="section[not(@title='Images')]" mode="detail">
+    <xsl:element name="hr">
+        <xsl:attribute name="id">
+            <xsl:value-of select="generate-id(.)"/>
+        </xsl:attribute>
+    </xsl:element>
     <xsl:element name="h2">
         <xsl:value-of select="@title"/>
     </xsl:element>

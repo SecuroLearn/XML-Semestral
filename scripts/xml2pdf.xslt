@@ -168,13 +168,13 @@
 
 <!-- Section title and contents -->
 <xsl:template match="section[not(@title='Images')]" mode="detail">
-    <fo:block id="{generate-id(.)}" space-before="15px">
+    <fo:block id="{generate-id(.)}" space-before="15px" keep-with-next.within-column="always">
         <fo:marker marker-class-name="section">
             <xsl:value-of select="@title"/>
         </fo:marker>
         <fo:leader leader-length="100%" leader-pattern="rule" alignment-baseline="middle" rule-thickness="1px" color="gray"/>
     </fo:block>
-    <fo:block font-size="24pt" space-before="10px">
+    <fo:block font-size="24pt" space-before="10px" keep-with-next.within-column="always">
         <xsl:value-of select="@title"/>
     </fo:block>
     <xsl:apply-templates select="subsection"/>
@@ -182,7 +182,7 @@
 
 <!-- Subsection title and contents -->
 <xsl:template match="subsection">
-    <fo:block font-size="15pt" font-weight="bold" space-before="12px">
+    <fo:block font-size="15pt" font-weight="bold" space-before="12px" keep-with-next.within-column="always">
         <xsl:value-of select="@title"/>
     </fo:block>
     <fo:block>
@@ -199,14 +199,14 @@
 
 <!-- Strong content -->
 <xsl:template match="content[@type='strong']">
-    <fo:block font-size="12pt" space-before="8px">
+    <fo:block font-size="12pt" font-weight="bold" space-before="8px" keep-with-next.within-column="always">
         <xsl:value-of select="concat(translate(substring(.,1,1), 'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'), substring(., 2))"/>
     </fo:block>
 </xsl:template>
 
 <!-- Comparison content -->
 <xsl:template match="content[@type='comparison-link']">
-    <fo:block font-style="italic" color="gray" space-before="5px">
+    <fo:block font-style="italic" color="gray" space-before="5px" keep-with-previous.within-column="always">
         <xsl:text>(</xsl:text>
         <xsl:value-of select="."/>
         <xsl:text>.)</xsl:text>

@@ -41,11 +41,20 @@ p
     margin-top: 4px;
     margin-bottom: 0px;
     font-size: 14px;
+    text-align: justify;
+}
+
+ul
+{
+    margin-right: 30px;
+    list-style-type: none;
+    margin-left: -40px;
 }
 
 li
 {
-    line-height: 160%;
+    display: inline;
+    line-height: 350%;
 }
 
 a
@@ -73,7 +82,26 @@ a.back-button
 
 a.back-button:hover
 {
-    background-color: rgb(45, 76, 168);
+    background-color: rgb(50, 85, 189);
+}
+
+a.button-section
+{
+    margin: 50px 0px 50px 0px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: white;
+    color: royalblue;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14px;
+    border-style: solid;
+    border-color: royalblue;
+}
+
+a.button-section:hover
+{
+    background-color: rgb(180, 180, 180);
 }
 
 table.images
@@ -107,6 +135,12 @@ hr
 
 p.comparison
 {
-    margin-top: 10px;
+    margin-top: 20px;
     color: gray;
+}
+
+audio
+{
+    margin-top: 30px;
+    margin-bottom: 5px;
 }
