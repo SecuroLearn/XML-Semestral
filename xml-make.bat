@@ -21,13 +21,13 @@ setlocal EnableDelayedExpansion
 :: =-=-=-=-=-=-=- PERSONALIZE SCRIPT HERE -=-=-=-=-=-=-=
 :: =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 :: Set Saxon.jar location here:
-set SAXON=..\Saxon\saxon-he-10.5.jar
+set SAXON=..\XML-Tools\Saxon\saxon-he-10.6.jar
 
 :: Set XmlLint.exe location here:
-set XMLLINT=..\xmllint\xmllint.exe
+set XMLLINT=..\XML-Tools\xmllint\xmllint.exe
 
 :: Set Fop location here:
-set FOP=..\fop-2.6\fop\fop
+set FOP=..\XML-Tools\fop-2.6\fop\fop
 
 :: Set name of file containing XML used for generating combined XML output here:
 set SHORT-AREAS=AreasMin.xml
