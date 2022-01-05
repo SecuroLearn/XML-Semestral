@@ -70,10 +70,10 @@
                 </xsl:element>
                 <xsl:element name="hr"/>
                 <xsl:element name="h2">
-                    Table of contents
+                    <xsl:text>Table of contents</xsl:text>
                 </xsl:element>
                 <xsl:element name="ul">
-                    <xsl:apply-templates select="section" mode="link"/>
+                    <xsl:apply-templates select="./section[not(@title='Images')]" mode="link"/>
                 </xsl:element>
                 <xsl:apply-templates select="./section[not(@title='Images')]" mode="detail"/>
             </xsl:element>
